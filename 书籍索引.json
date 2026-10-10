@@ -1,0 +1,1990 @@
+[
+  {
+    "path": "[四季大雅].浴缸生活.epub",
+    "format": "epub",
+    "bytes": 4478647,
+    "sha256": "4c9555c5cbc7882673e2f6db0ea3531d0b74b2810cb935a37a1213caabbeb8b5",
+    "git_blob": "45bfc1102c2a01c5afb2e4976b83ec7e0d293cbc"
+  },
+  {
+    "path": "[美]-Robert-C·Martin-代码整洁之道.epub",
+    "format": "epub",
+    "bytes": 2757257,
+    "sha256": "f345417e57e20b3bab3afe8877f12f235c68e200080e0d4e2d7bacc06c9ceba8",
+    "git_blob": "98c927d773d264cead755ed8ca5cac55d3380caf"
+  },
+  {
+    "path": "《凡人修仙传》（校对版全本+番外）作者：忘语.txt",
+    "format": "txt",
+    "bytes": 15079878,
+    "sha256": "2fc1698410418bf136448807335c6359bf515b75e6f9c1e1d1f443a1c928e6cc",
+    "git_blob": "05bbc28304d231a630e7e7442ab2e5055f707436"
+  },
+  {
+    "path": "《新青年》文选.epub",
+    "format": "epub",
+    "bytes": 670529,
+    "sha256": "c12b9b6b787af96f3685cd2f8af5add6191288e32a90d044c3c14e6cb8fb02b1",
+    "git_blob": "3730019f6fb57130355b73cde333139f79bbcf3d"
+  },
+  {
+    "path": "《谁还不是个修行者了》作者：金色茉莉花.txt",
+    "format": "txt",
+    "bytes": 4131854,
+    "sha256": "d694536c79cce5a1879d6a142426305c1f79be5006461ade5d447bd8044b2338",
+    "git_blob": "3f07419e3fdc38b18b43d08ac7b837b78abe0b31"
+  },
+  {
+    "path": "三体全集.epub",
+    "format": "epub",
+    "bytes": 7607539,
+    "sha256": "da8bd0cc02e7ee866aaaeb2a4978aa5d70aefc55cacde24662f48aa9780a0656",
+    "git_blob": "16f92160df4876829b9046c07245d6d783ae1e1f"
+  },
+  {
+    "path": "了不起的盖茨比.epub",
+    "format": "epub",
+    "bytes": 435921,
+    "sha256": "7aab255d034cba3371fd9a475a3f1fe29ec3473c8b681c4c3ec035a190f5f5ac",
+    "git_blob": "93c3558888c0c9778c77de8ed8284bc894f7e266"
+  },
+  {
+    "path": "人生的智慧.epub",
+    "format": "epub",
+    "bytes": 1023306,
+    "sha256": "c7514b2143c20fbfac87004f079330bf4745c07a2056c3aef7985e1d64016bc7",
+    "git_blob": "cefa46b19afa5b0510c368febe85a4e8272e021e"
+  },
+  {
+    "path": "俺がいる/やはり俺の青春ラブコメはまちがっている。.epub",
+    "format": "epub",
+    "bytes": 8532487,
+    "sha256": "d108815c290cafe407d57eae20ad210c4bd3fb88a47cf132f834a0baf00de39f",
+    "git_blob": "67014eb2dcd425ac521f40a45e70c78d79dcbb06"
+  },
+  {
+    "path": "俺がいる/やはり俺の青春ラブコメはまちがっている。10.5.epub",
+    "format": "epub",
+    "bytes": 5363740,
+    "sha256": "58fd52d4d97f55f3f8f1ce035fba53e4ac194b438758ba04eabc7554fc83d685",
+    "git_blob": "74d4b1389f8e12cdbd53e91e6751e26b60c2528f"
+  },
+  {
+    "path": "俺がいる/やはり俺の青春ラブコメはまちがっている。10.epub",
+    "format": "epub",
+    "bytes": 5532519,
+    "sha256": "5056c53cd9b0d4526c559a0a19a041283f32d954c3795472e6f18564d4f5a4da",
+    "git_blob": "7ab9e2f3009c185fcd7ea0407c18cb1b17cd2806"
+  },
+  {
+    "path": "俺がいる/やはり俺の青春ラブコメはまちがっている。11.epub",
+    "format": "epub",
+    "bytes": 5810016,
+    "sha256": "30c3204fdb2d63522432c18e3de06e12016a791399cc57587bf9f7c412820c65",
+    "git_blob": "53ade798e43a367917e19ca43095b276d4e48171"
+  },
+  {
+    "path": "俺がいる/やはり俺の青春ラブコメはまちがっている。12.epub",
+    "format": "epub",
+    "bytes": 29924104,
+    "sha256": "a309d777b5d0e378f647fdf8e230fca235955945df44a14e2484c286f3b2e72d",
+    "git_blob": "3f730205cb027ce73d03101d6f1c2ca4cab93057"
+  },
+  {
+    "path": "俺がいる/やはり俺の青春ラブコメはまちがっている。13.epub",
+    "format": "epub",
+    "bytes": 15140633,
+    "sha256": "a3d2badd50a1e53064174d280408271070e58336a9ac3189f657c262f85c4935",
+    "git_blob": "8e01c3bb81ae40c87e031df8057a1201fb95745f"
+  },
+  {
+    "path": "俺がいる/やはり俺の青春ラブコメはまちがっている。14.epub",
+    "format": "epub",
+    "bytes": 3710871,
+    "sha256": "168410f4540f9caefdc346846c2a5066dca982fcc652b13c99b96ace3f809a47",
+    "git_blob": "47f4e843f7129998aedd1f8ad3369670dcfe2907"
+  },
+  {
+    "path": "俺がいる/やはり俺の青春ラブコメはまちがっている。2.epub",
+    "format": "epub",
+    "bytes": 8017036,
+    "sha256": "d4a52d9ccb0f04414b90e30c778c586cf66e35b9275030e81493dff9ea8d6b2c",
+    "git_blob": "900489f3007edf0152aabd5e10e49a9bbcb068f1"
+  },
+  {
+    "path": "俺がいる/やはり俺の青春ラブコメはまちがっている。3.epub",
+    "format": "epub",
+    "bytes": 8314296,
+    "sha256": "c4f2e4f486ff6ddbb1e98b0ad6236a08cbeaa527a7e7808205642403fa564c25",
+    "git_blob": "a8c738d06297959f46bf07d1fb06960b0c28e980"
+  },
+  {
+    "path": "俺がいる/やはり俺の青春ラブコメはまちがっている。4.epub",
+    "format": "epub",
+    "bytes": 9189261,
+    "sha256": "92c34f0b0d798760a31e2e96877f83162f2c07bbcee64cda609cbfc4c752e255",
+    "git_blob": "c75d8180b5646407c9dbb3b8b4f8774b8119ca6b"
+  },
+  {
+    "path": "俺がいる/やはり俺の青春ラブコメはまちがっている。5.epub",
+    "format": "epub",
+    "bytes": 7940091,
+    "sha256": "4b7d218763ff55ac55023c53753092e3f7354da2c43db412429ab2f098623223",
+    "git_blob": "5351d7dc4869b791325738c8e1a65738d2c9e672"
+  },
+  {
+    "path": "俺がいる/やはり俺の青春ラブコメはまちがっている。6.5.epub",
+    "format": "epub",
+    "bytes": 6289780,
+    "sha256": "b19f07b0ed1b5251c4bcb2b2b95a76c0c3398bb7ea871babb1da53c0f7fb3616",
+    "git_blob": "fbf3c8a321f3e83a9b75af4e105a97a5e2e9354c"
+  },
+  {
+    "path": "俺がいる/やはり俺の青春ラブコメはまちがっている。6.epub",
+    "format": "epub",
+    "bytes": 8443413,
+    "sha256": "9e610f6e39466de84e41241006d7a6179b4ffcc3ec70b8c27339d74faf8dfd96",
+    "git_blob": "52ecda85231f881567577b5f5fe28099a36ed837"
+  },
+  {
+    "path": "俺がいる/やはり俺の青春ラブコメはまちがっている。7.5.epub",
+    "format": "epub",
+    "bytes": 6979300,
+    "sha256": "b03ae02cdc86286371b3fa0144f254900fede2260189b9c3b2b824c759b0d11d",
+    "git_blob": "34013904ec80e3075edefb59c6dde0a770987630"
+  },
+  {
+    "path": "俺がいる/やはり俺の青春ラブコメはまちがっている。7.epub",
+    "format": "epub",
+    "bytes": 7170027,
+    "sha256": "883454b2b7304ab5306db042704268446dab93c960db78fdb07d9f5791c08d7f",
+    "git_blob": "2cd2b2b3e9ca0c74a7cc51d2766a4559242a7994"
+  },
+  {
+    "path": "俺がいる/やはり俺の青春ラブコメはまちがっている。8.epub",
+    "format": "epub",
+    "bytes": 5406651,
+    "sha256": "77980be98bff9e563a0928a7928503e3f7cf07cf553915e388fe5a5db24ca93e",
+    "git_blob": "83002cc55a38157ac698745925f95ca920be4023"
+  },
+  {
+    "path": "俺がいる/やはり俺の青春ラブコメはまちがっている。9.epub",
+    "format": "epub",
+    "bytes": 6194787,
+    "sha256": "e9bda296fec0274f91d1f1f885d67bae93c57e9bc3a0b4843749d9710f7933e5",
+    "git_blob": "bc5faaa02c69c475cf740cd889f5e72af1b65c51"
+  },
+  {
+    "path": "叔本华论说文集-叔本华.epub",
+    "format": "epub",
+    "bytes": 793353,
+    "sha256": "18d3e1b221dfda981f67b18c26ae39520be433fdb92e17cabc36d6f9a5157e98",
+    "git_blob": "3127a4e7437537564ad4a7eca2a23d9ec8cbe19e"
+  },
+  {
+    "path": "地下室手记.epub",
+    "format": "epub",
+    "bytes": 277159,
+    "sha256": "89245cc9ced0bd9470e3198a5cc5a73ab21cd49c151a7a8aaa926c93133df3f6",
+    "git_blob": "7ee46c5a14de65c0ff8046a2ea49f84e8d344038"
+  },
+  {
+    "path": "地下室手记.mobi",
+    "format": "mobi",
+    "bytes": 1398573,
+    "sha256": "b8d67f05bbc47896362f222b65c05f0f12f9e31babd19128d22b5daf3cf755b4",
+    "git_blob": "0af745d940cf2ceb94ecb4dd0a166c73e9079ff3"
+  },
+  {
+    "path": "堕落论.epub",
+    "format": "epub",
+    "bytes": 291068,
+    "sha256": "e192493e25bf2e3e5df020fbd660d3234af9e89033611abe3f4e643527738b3e",
+    "git_blob": "9068616e34f630dab3bcc4be1274cbc035127ecf"
+  },
+  {
+    "path": "太阳与少女.mobi",
+    "format": "mobi",
+    "bytes": 1001569,
+    "sha256": "9693d37331c11c5bff48c9dfcc3318485af23ef8fd681ba74eb2cc3768b4b05f",
+    "git_blob": "70cd13e5259455363277f0e5a9d62fa57c938ce0"
+  },
+  {
+    "path": "奔跑吧！梅洛斯：新解.epub",
+    "format": "epub",
+    "bytes": 254101,
+    "sha256": "4a740ad6f4051104323b5f205950ff689651aa16f5d752a1ef41a60ca216a249",
+    "git_blob": "c03ff71a6a12229517c883860a7113cf0ee5db61"
+  },
+  {
+    "path": "妹妹人生/[入间人间].妹妹人生.上.epub",
+    "format": "epub",
+    "bytes": 5594914,
+    "sha256": "0d775bf2e933b12d70bf04e57dea0c5bd4013d11a3494b88095574177a8496a6",
+    "git_blob": "0cb49ab02d4cd7c3a746bced021329a22f8f4444"
+  },
+  {
+    "path": "妹妹人生/[入间人间].妹妹人生.下.epub",
+    "format": "epub",
+    "bytes": 4678004,
+    "sha256": "30336c302685b86b761229a0fd965651205a4857fab1b4d0fc3a59f3bb892df3",
+    "git_blob": "d95a624ce6ef53ec615437c505414ec07b5efb12"
+  },
+  {
+    "path": "完全手册/完全失踪手册.pdf",
+    "format": "pdf",
+    "bytes": 16957620,
+    "sha256": "069cc5abbab23fc1969a8760e02eb6390a391c20cc412972abbaebb113d3f7f5",
+    "git_blob": "ca419d99c50528fa6c0d7dd22b2c53a6567d71a0"
+  },
+  {
+    "path": "完全手册/完全自杀手册.pdf",
+    "format": "pdf",
+    "bytes": 749088,
+    "sha256": "0a7c04572866a22b4c1222db66beb5b2cf88fe382eac3d7df58b457299217300",
+    "git_blob": "f88a0ee3dac031098480649186d223ed4cb44f37"
+  },
+  {
+    "path": "尼采诗集.pdf",
+    "format": "pdf",
+    "bytes": 2087359,
+    "sha256": "c94c1a0e1814e1f4ae38519f1a7b715b99e1b0a235f0d44ee0b6dfe405dab82a",
+    "git_blob": "888639ef3e97a82a1131e863d9573da7a2fa8331"
+  },
+  {
+    "path": "山月记.epub",
+    "format": "epub",
+    "bytes": 458256,
+    "sha256": "d7402026ac5b76c89fc4e61a66a806714db7c54be1e8cd2f3b6ecc20891ee902",
+    "git_blob": "086ca078bf1e8bba33829e891225dd778e2606fc"
+  },
+  {
+    "path": "平凡的世界.epub",
+    "format": "epub",
+    "bytes": 1386632,
+    "sha256": "f396c39872f8ede662edbbe5f239ba6c0639f1adbd6be9631460023e2e4e0199",
+    "git_blob": "820847be9db6206d5baa984fe6de77ced7d025c6"
+  },
+  {
+    "path": "心.epub",
+    "format": "epub",
+    "bytes": 4829804,
+    "sha256": "a3667a5556226979819d86f397519229ba5c68cc545f45024419bba70f9bf3e2",
+    "git_blob": "bfe1cc8f16c981a6bd41a53beee48a891cb7b5b9"
+  },
+  {
+    "path": "恋文的技术.epub",
+    "format": "epub",
+    "bytes": 329423,
+    "sha256": "42aa1a59d6bc757b4ceb88ee9fde6b92141bbbd27e190ef501a9af5c8c8704df",
+    "git_blob": "eed7761c03d042482339cd3bd31b32289569b236"
+  },
+  {
+    "path": "春宵苦短,少女前進吧! - 森見登美彦.epub",
+    "format": "epub",
+    "bytes": 209143,
+    "sha256": "5e6c8559b7364d03a1b5a46afdde0aeeac53dcba85f6101faeafd04f7786892c",
+    "git_blob": "22187e021ce8e440e02ee380a2dae90ce09daa92"
+  },
+  {
+    "path": "死屋手记.epub",
+    "format": "epub",
+    "bytes": 362618,
+    "sha256": "a1cfb83bdbeb6a838a86e1f0a89bc2f6d2dcbe7bf2ba9fc3a8cec801b61a44af",
+    "git_blob": "010a7fd7e5cf565a8be1318a876e536c5d6676eb"
+  },
+  {
+    "path": "爱与生的苦恼.epub",
+    "format": "epub",
+    "bytes": 3031521,
+    "sha256": "78fdfe43c0e68731a4560c165db37fb03c5fbb57aef3bd056e7a83b2e7e098b2",
+    "git_blob": "4881f423a92b950f10cd2f3dced9ff8105253567"
+  },
+  {
+    "path": "罗生门.epub",
+    "format": "epub",
+    "bytes": 4425301,
+    "sha256": "5753e9b88b0cf0e6d3dd3c5ae52671c72c55d5686dd4808913630a4fdb44726b",
+    "git_blob": "51e1dfc32ed273d642ff2b3270849facc2f04ac1"
+  },
+  {
+    "path": "自私的基因.mobi",
+    "format": "mobi",
+    "bytes": 5619880,
+    "sha256": "ea2bd3cd4e17f75dd7175ef5a7c37659cde3dd2e01e3cffb677a4c74061b329e",
+    "git_blob": "e5a18f4a7041813c49c09f2c8073872f32a831c6"
+  },
+  {
+    "path": "裸猿.mobi",
+    "format": "mobi",
+    "bytes": 286336,
+    "sha256": "a1dab20977934457e966ed6320b666ce9984f47e6e820cc3deda603a43bdc2c0",
+    "git_blob": "acf11520238e54597ef3d2e4ab92d702cf0c7966"
+  },
+  {
+    "path": "青空文库[mobi]/[nameless poison by Miyuki Miyabe] 名もなき毒 宮部みゆき.mobi",
+    "format": "mobi",
+    "bytes": 1625821,
+    "sha256": "a827c38bff737ed1991a2af387a4c541f5dc81ae075b08daa4456db1b04c64a9",
+    "git_blob": "d3a841cefc2e2b85d5f6b7071c2647bf3395b9a9"
+  },
+  {
+    "path": "青空文库[mobi]/[つかこうへい] 蒲田行進曲.mobi",
+    "format": "mobi",
+    "bytes": 841646,
+    "sha256": "288eabd10556d2ccb1e9272fb41570ae82bf8078c3e567a9d0639d145b75f935",
+    "git_blob": "7704c647bcadc420e960c3c11477d916b62a0bb0"
+  },
+  {
+    "path": "青空文库[mobi]/[てんのじ村] 難波利三.mobi",
+    "format": "mobi",
+    "bytes": 1096149,
+    "sha256": "cc3da65d60bcaf01141c26e842c4efe569afbbe4a72caf79ec9ec37295690baf",
+    "git_blob": "2ca619508625d29224964a4b01fca805f7516b10"
+  },
+  {
+    "path": "青空文库[mobi]/[リリー・フランキー] 東京タワー　オカンとボクと、時々、オトン.mobi",
+    "format": "mobi",
+    "bytes": 1910914,
+    "sha256": "d4ee6532ee0f76003019ab1f4f81487c5bab3a5784c7f90bdf75e4055d67be44",
+    "git_blob": "b2b9f215667e7c5f6822143689aeda73634fbccd"
+  },
+  {
+    "path": "青空文库[mobi]/[万城目学] プリンセス・トヨトミ.mobi",
+    "format": "mobi",
+    "bytes": 6740419,
+    "sha256": "8aefe8de5393317908623c7c913ca9dfd5690dc576166c539d13396ced14e588",
+    "git_blob": "0509d032b6a95c5676c22580a0a537a1728da280"
+  },
+  {
+    "path": "青空文库[mobi]/[三上延] ビブリア古書堂の事件手帖　～栞子さんと奇妙な客人たち～.mobi",
+    "format": "mobi",
+    "bytes": 1527742,
+    "sha256": "5059c225d0661bc355e7f98cf0b775ddc57f1e59eeb0101281dc04dfb101c9cf",
+    "git_blob": "8c25c05e7d47f7b98f7922f3dc017e5954ac7bf6"
+  },
+  {
+    "path": "青空文库[mobi]/[三上延] ビブリア古書堂の事件手帖２　～栞子さんと謎めく日常～.mobi",
+    "format": "mobi",
+    "bytes": 1058283,
+    "sha256": "edbe2fd727797fb2e8c2633e981ff548d52b6ff807c87470cb6b8def6755d18a",
+    "git_blob": "ad8ee3967226fc82f710f813f9f74c36951aeb2b"
+  },
+  {
+    "path": "青空文库[mobi]/[三上延] ビブリア古書堂の事件手帖３　～栞子さんと消えない絆～.mobi",
+    "format": "mobi",
+    "bytes": 1243950,
+    "sha256": "178f444840f880c5fb22c42e5193a140b8f6304444bb7232fb6ef2d1f84b5740",
+    "git_blob": "0fcc0b39986f90732aac4f79c4dc0d5fa1424dc6"
+  },
+  {
+    "path": "青空文库[mobi]/[三上延] ビブリア古書堂の事件手帖４　～栞子さんと二つの顔～.mobi",
+    "format": "mobi",
+    "bytes": 1320478,
+    "sha256": "0bb0a39501f359d150b2589a6ace25ed973a7ef22755b77f08f8e8f6ae06e897",
+    "git_blob": "88ed47b73a0cc78580cd6d75fbf0384a6972f712"
+  },
+  {
+    "path": "青空文库[mobi]/[三上延] ビブリア古書堂の事件手帖５　～栞子さんと繋がりの時～.mobi",
+    "format": "mobi",
+    "bytes": 1777453,
+    "sha256": "b2c76e430478b0edf9e847813aaf9ba85758838fc255d81d8b6f48ac8e58c591",
+    "git_blob": "5e4abb2e6dfa508da59d06eb444d29da01c5c773"
+  },
+  {
+    "path": "青空文库[mobi]/[三浦哲郎] 忍ぶ川.mobi",
+    "format": "mobi",
+    "bytes": 1595732,
+    "sha256": "be0e0a442211dfe806e4dea55d1ff9c1592407cd7fbe35eaa4676b09d2931c1e",
+    "git_blob": "89c2b0b5ff46feff325603798cc9c362be4e9f73"
+  },
+  {
+    "path": "青空文库[mobi]/[上橋菜穂子] 狐笛のかなた.mobi",
+    "format": "mobi",
+    "bytes": 1754561,
+    "sha256": "cdd8f89d34dfa261e46a16103a9dae09c30978d719c7d0b9d040c662c01b9ab2",
+    "git_blob": "eadf89c30dd06857b69b9c4d6033b29f47b78379"
+  },
+  {
+    "path": "青空文库[mobi]/[上橋菜穂子] 鹿の王　上.mobi",
+    "format": "mobi",
+    "bytes": 2549578,
+    "sha256": "0af9c04176b29f64fd970760f7ce74ee5dbf0e726d9e5aa40ae7aea2c62fa4a9",
+    "git_blob": "8a2e3277b8ad9f3dce6ee74dd43ac7253dacc86f"
+  },
+  {
+    "path": "青空文库[mobi]/[上橋菜穂子] 鹿の王　下.mobi",
+    "format": "mobi",
+    "bytes": 2484495,
+    "sha256": "3c83394fef8673aac8e4068c1687cdd51fb52cdb6e1a94f7b1f1a50c970f7dee",
+    "git_blob": "bc92cb6fa20201aefd30963fe0cc6558b4fb3109"
+  },
+  {
+    "path": "青空文库[mobi]/[中上健次] 岬.mobi",
+    "format": "mobi",
+    "bytes": 1011957,
+    "sha256": "3669319a19ca1345518d9eae3a91a3a4f0504a179e77909937424d4af7127eeb",
+    "git_blob": "4bf6d75b14ab0d38b7fddafd381674c4c06d7dbf"
+  },
+  {
+    "path": "青空文库[mobi]/[中井英夫] とらんぷ譚.mobi",
+    "format": "mobi",
+    "bytes": 2832965,
+    "sha256": "81daa997f7570a91f7235ea1ebab1be5ec3ea7afeaf2a670c9831d27d141bcf3",
+    "git_blob": "d26c2c61e6e1a890386329402e1935d2d087b10e"
+  },
+  {
+    "path": "青空文库[mobi]/[中井英夫] 虚無への供物.mobi",
+    "format": "mobi",
+    "bytes": 5159383,
+    "sha256": "61127386a11f51245cb1d688d96bea3656acf698f25f8ad5c879699eaaa248d4",
+    "git_blob": "736a9e3b8980e5080291f8a58d2e279beed1ed4f"
+  },
+  {
+    "path": "青空文库[mobi]/[中島京子] 妻が椎茸だったころ.mobi",
+    "format": "mobi",
+    "bytes": 679505,
+    "sha256": "8f68bd554a25cbb24a622fe2c7675f5d41982b5537e7bbaaddbebbafb729981c",
+    "git_blob": "0bb5c0035241ef40076ea37958a6e57f071dbbb1"
+  },
+  {
+    "path": "青空文库[mobi]/[中島京子] 小さいおうち.mobi",
+    "format": "mobi",
+    "bytes": 2312495,
+    "sha256": "4e8cec88c82bb4ca113081d298fa19f5e1e0bd679fa37bf9ff8f7da4ef682afc",
+    "git_blob": "53faec58989655b9a3b0fc55aa0689823b49106c"
+  },
+  {
+    "path": "青空文库[mobi]/[中村紘子] ピアニストという蛮族がいる.mobi",
+    "format": "mobi",
+    "bytes": 11720399,
+    "sha256": "4fc155f2b4aa9cff08af18d85c84211746007736e71413318e0f725dc54c9aa1",
+    "git_blob": "6bbde63dbfaa72763a7e014415e845cc34ab057a"
+  },
+  {
+    "path": "青空文库[mobi]/[中村航] ぐるぐるまわるすべり台.mobi",
+    "format": "mobi",
+    "bytes": 884012,
+    "sha256": "029d6cf378b93388e6e750b6a91ef521d386c53685baf2ef66a81982a9595feb",
+    "git_blob": "95882ebf933ffae11d02107797fd00a08b82d2df"
+  },
+  {
+    "path": "青空文库[mobi]/[中野順一] セカンド・サイト.mobi",
+    "format": "mobi",
+    "bytes": 1198687,
+    "sha256": "ad44d508c189423d23a620d47a2be4667453615e8f493ab44a1442446bd71100",
+    "git_blob": "f1208d1a52ea85955926dff50b7f8337d2a10e15"
+  },
+  {
+    "path": "青空文库[mobi]/[丸谷才一] 年の残り.mobi",
+    "format": "mobi",
+    "bytes": 1170779,
+    "sha256": "0ca29b3546eccfae247eb3423669322b02f19f3f00cb5dc9a2b92530ab4310d4",
+    "git_blob": "ef49d49387c4bbc0969e3914422866bd11f64133"
+  },
+  {
+    "path": "青空文库[mobi]/[乃南アサ] 凍える牙.mobi",
+    "format": "mobi",
+    "bytes": 2160532,
+    "sha256": "cefddef00ce3298d6fcaf2705ebdbcb847c536a024b1fd63d5c898a985f7e35a",
+    "git_blob": "41d65e92fd70ad37ede7a4722c30148c6054dceb"
+  },
+  {
+    "path": "青空文库[mobi]/[乾くるみ] Ｊの神話.mobi",
+    "format": "mobi",
+    "bytes": 2305514,
+    "sha256": "94e9c013315ee8b6402fc9eb031b8ec191cfee95c533a80e5d6e4d3aaad8463a",
+    "git_blob": "a1e4221547f45dbdb1945ea5b88d6af356bc862d"
+  },
+  {
+    "path": "青空文库[mobi]/[井上ひさし] 手鎖心中.mobi",
+    "format": "mobi",
+    "bytes": 1090253,
+    "sha256": "ff877e32157d7dcee406945bbb93b5f8150cbb4378b4e83cdc259fb3250fd73a",
+    "git_blob": "baa6c319250d9554298d8eba3620720c59190289"
+  },
+  {
+    "path": "青空文库[mobi]/[伊坂幸太郎] ゴールデンスランバー.mobi",
+    "format": "mobi",
+    "bytes": 2326128,
+    "sha256": "67beada71e2ab4f0bfc6e9aaf8425d3a0b2dc8704aa3351c618bd5a61a41ff57",
+    "git_blob": "e07065570ecd4df88f07943a72989923fb3f1145"
+  },
+  {
+    "path": "青空文库[mobi]/[住野よる] 君の膵臓を食べたい.mobi",
+    "format": "mobi",
+    "bytes": 1588894,
+    "sha256": "2cdb40cf2b07dad530a8a5788527fb59bac19adb075f48e8124c80f3e15b699a",
+    "git_blob": "14e99808bab2f981163bc56d5661ff22d39f342e"
+  },
+  {
+    "path": "青空文库[mobi]/[佐木隆三] 復讐するは我にあり.mobi",
+    "format": "mobi",
+    "bytes": 4357624,
+    "sha256": "28094db75e3c24544e59962e8362669eac04e42e46a82de5dda1c06e9e3c5d9b",
+    "git_blob": "e5ad77df04de8f5b807de9e45dc4e3ec5b0f64d6"
+  },
+  {
+    "path": "青空文库[mobi]/[佐藤正午] 月の満ち欠け.mobi",
+    "format": "mobi",
+    "bytes": 1818094,
+    "sha256": "d87ea7bc62b154deddf37190d62437a0413348595b4023ae8eda858eac01881b",
+    "git_blob": "37ec99726f601428142c4db519afd18777be273e"
+  },
+  {
+    "path": "青空文库[mobi]/[佐藤賢一] 王妃の離婚.mobi",
+    "format": "mobi",
+    "bytes": 1501547,
+    "sha256": "3d47bde2e4ec18d733b2e9656ff5e6a3917bf26ca143281da99c9d48e38c58ca",
+    "git_blob": "2e1279aaf45abaf2a0615e20cfd169aaabddc52e"
+  },
+  {
+    "path": "青空文库[mobi]/[倉橋由美子] アマノン国往還記.mobi",
+    "format": "mobi",
+    "bytes": 2432800,
+    "sha256": "a0b1551448669ca7539d102a4ec5cc27924b19a3b96f15e018edf6759629cdad",
+    "git_blob": "beade468adbd25c7f22a428e3ed205c76f13165f"
+  },
+  {
+    "path": "青空文库[mobi]/[倉橋由美子] 倉橋由美子の怪奇掌篇.mobi",
+    "format": "mobi",
+    "bytes": 20429266,
+    "sha256": "49a6b2e39b1f2f3646bc906fad02ea3a70c0f716dccbe18a8cd3b3a12cab017d",
+    "git_blob": "45d202f16cbdf0fa4d07472c0054493e684f9c70"
+  },
+  {
+    "path": "青空文库[mobi]/[倉橋由美子] 聖少女.mobi",
+    "format": "mobi",
+    "bytes": 1169589,
+    "sha256": "027cd13abaf5b2a416d1c445de2560c6e0d02476b54aac3c88426da486e3c2f0",
+    "git_blob": "93960e8cb74931b428497aa286509a50017e0e0b"
+  },
+  {
+    "path": "青空文库[mobi]/[冲方丁] 天地明察.mobi",
+    "format": "mobi",
+    "bytes": 3613274,
+    "sha256": "3620ea16b14ac7bad1077cf9bc02a049e264da59e632482e3e491e82488471ca",
+    "git_blob": "4f1fe6d7dae2cedeef891fcc68715b48a58b1f35"
+  },
+  {
+    "path": "青空文库[mobi]/[加藤幸子] 夢の壁.mobi",
+    "format": "mobi",
+    "bytes": 1222545,
+    "sha256": "5619f911f6772806df2fd018e53531d1c5b1236aae91927cd0ce8e736197a8ab",
+    "git_blob": "2d86835ac2713a8adce51169dd6be8ce7039b25d"
+  },
+  {
+    "path": "青空文库[mobi]/[北方謙三] 眠りなき夜.mobi",
+    "format": "mobi",
+    "bytes": 2572317,
+    "sha256": "2a360ee64b4d182eb69e27a4990a83c3c7b71af99b17f0155348cb48db6ae05d",
+    "git_blob": "b96a22d9a20e640b673f80a897f40c34e11cea9f"
+  },
+  {
+    "path": "青空文库[mobi]/[北野勇作] かめくん.mobi",
+    "format": "mobi",
+    "bytes": 3553657,
+    "sha256": "6dc3a45e25269cbca99d1410390284329ff749d21d729563c89832bc796ad333",
+    "git_blob": "feaecd9429ac42eeebc2b9ac5e715e284f4f099e"
+  },
+  {
+    "path": "青空文库[mobi]/[半村良] 戦国自衛隊.mobi",
+    "format": "mobi",
+    "bytes": 2323386,
+    "sha256": "cb740042fc722d62b289502bb2a1122f8df8df23437254f466109c3c6e9ef6cc",
+    "git_blob": "a02f28302a53828472b73f505ba8846d41d6fdb8"
+  },
+  {
+    "path": "青空文库[mobi]/[半村良] 産霊山秘録.mobi",
+    "format": "mobi",
+    "bytes": 2251952,
+    "sha256": "70e43fa2e9ffb8c0048f63d28d98b88809631126cff17fd3445ba325b68b1a92",
+    "git_blob": "54910ba7e9cd1787a25fee033b507546f02f673c"
+  },
+  {
+    "path": "青空文库[mobi]/[半村良] 石の血脈.mobi",
+    "format": "mobi",
+    "bytes": 2262609,
+    "sha256": "7ba2db403908f6db66b5c51b8d1b69c68c0338e95d5ed3d5bf61e690fe12798d",
+    "git_blob": "8e97e713e73f9ae4a34db157614418e7f5ecbe6a"
+  },
+  {
+    "path": "青空文库[mobi]/[半村良] 雨やどり.mobi",
+    "format": "mobi",
+    "bytes": 2421904,
+    "sha256": "07833e1779a57f6ac26a1d4b9dc1ff66ac5fce537d4dc57466891d9ad47b6644",
+    "git_blob": "f2d1613292671c1ba4876d7a0246456c8b8ff6dd"
+  },
+  {
+    "path": "青空文库[mobi]/[南木佳士] ダイヤモンドダスト.mobi",
+    "format": "mobi",
+    "bytes": 956444,
+    "sha256": "8327ed2e061d6f57d9254d5cb6ae29e2495318583941434cc213af9c6702e95c",
+    "git_blob": "0fd0bf698a9335d0f19e03fe807afdc9d7247148"
+  },
+  {
+    "path": "青空文库[mobi]/[原尞] 私が殺した少女.mobi",
+    "format": "mobi",
+    "bytes": 2080234,
+    "sha256": "d416cad5935553f78c01122f4f9754a48f163adba8cacab97804fd24b15ba54e",
+    "git_blob": "7743ef1d1cb4a464fd61dc3d9fa7ef4ccc8f4eb7"
+  },
+  {
+    "path": "青空文库[mobi]/[古泉迦十] 火蛾.mobi",
+    "format": "mobi",
+    "bytes": 972774,
+    "sha256": "d1e2c39c3dbe021bf87aa825008267416ca4065b58f42539fcd0d6575f33ad77",
+    "git_blob": "15e9fe9e3f4d2bdf08f58308bff83b74115abe23"
+  },
+  {
+    "path": "青空文库[mobi]/[吉本ばなな] キッチン.mobi",
+    "format": "mobi",
+    "bytes": 1725525,
+    "sha256": "9fdfb7c4d4eba237694c538b83b039d609f2de480b537a6e164681faee1c5caa",
+    "git_blob": "56c371d3af4243d7c45bbffcecf2d1e9a5d967d6"
+  },
+  {
+    "path": "青空文库[mobi]/[吉村萬壱] ハリガネムシ.mobi",
+    "format": "mobi",
+    "bytes": 507896,
+    "sha256": "874a69d072f634bbac9d52b42895a0f53532180d96193ac99de12f61faedcfb4",
+    "git_blob": "956166cbf72cac08cbfb04ef02ffd61624e600b8"
+  },
+  {
+    "path": "青空文库[mobi]/[吉田修一] パーク・ライフ.mobi",
+    "format": "mobi",
+    "bytes": 646804,
+    "sha256": "6a5cd37ba8d5fe36647b9556dd2a10050422746fc3e4a2ac9365d5857be3c2b3",
+    "git_blob": "1a39e969fbe70d1a6550f0d91a47474c42902a8f"
+  },
+  {
+    "path": "青空文库[mobi]/[吉田知子] 無明長夜.mobi",
+    "format": "mobi",
+    "bytes": 1098064,
+    "sha256": "6e9b0b961df3c843dd689995a52b54fdac0a00031bde78c54f9917a486bc6939",
+    "git_blob": "e220f359a14a6956c49fb5156af2236890c373b3"
+  },
+  {
+    "path": "青空文库[mobi]/[吉行理恵] 小さな貴婦人.mobi",
+    "format": "mobi",
+    "bytes": 817917,
+    "sha256": "43cdbddb6381f393676fbfa411b38fa14beb4c29c5a6c88d30df13210a035852",
+    "git_blob": "1917ad4ea6472498f2682e2f2eaf6d4fe41671a9"
+  },
+  {
+    "path": "青空文库[mobi]/[和田　竜] 村上海賊の娘　上巻.mobi",
+    "format": "mobi",
+    "bytes": 4870283,
+    "sha256": "82fd427ff34905c9336971a69cb5a4fbac2dbac0825514d617becea69dc061b7",
+    "git_blob": "60e5ba57fcf2a1edd5ce3cd988bf60005dc6ca91"
+  },
+  {
+    "path": "青空文库[mobi]/[和田　竜] 村上海賊の娘　下巻.mobi",
+    "format": "mobi",
+    "bytes": 5002950,
+    "sha256": "8c2e5a9067c4d57ebb3d267ee36027447b38d49a47e12f5f603d6f7fb7f9382a",
+    "git_blob": "6ab8c33b81ecfed366f1497ae67ef3011b30f931"
+  },
+  {
+    "path": "青空文库[mobi]/[団　鬼六] 花と蛇　奇譚クラブ連載版.mobi",
+    "format": "mobi",
+    "bytes": 4830911,
+    "sha256": "986319fe05b8cfb220afa230e41eadda7a118df78beffc4b86feee7424d74656",
+    "git_blob": "83e4ba33a2b4dbedd44764e65f0964ae0715f9d5"
+  },
+  {
+    "path": "青空文库[mobi]/[坂東眞砂子] 山妣.mobi",
+    "format": "mobi",
+    "bytes": 3168790,
+    "sha256": "ecedc7e6d1a4629101db3946ffbb60e14990ce05a8c067d31a0ddc8bca875621",
+    "git_blob": "edee4b2774f7dbb6c35684f21abd2c0100bee81f"
+  },
+  {
+    "path": "青空文库[mobi]/[塩田武士] 罪の声.mobi",
+    "format": "mobi",
+    "bytes": 2092064,
+    "sha256": "b961e3b2125383db8c04b978e5cf92fb717d230947dbfdbf66104773f4661d74",
+    "git_blob": "e4217b1ec1f34553fdef467752024e47a44224dc"
+  },
+  {
+    "path": "青空文库[mobi]/[夢枕獏] 大江戸釣客伝　（上）.mobi",
+    "format": "mobi",
+    "bytes": 1675114,
+    "sha256": "7b4915670f2a5b01ba5cc63d09bb717525ba393d1fb4f8662f652a98e293491a",
+    "git_blob": "f24ec63dcf6ab71456f7890b8e8d492f711b9b65"
+  },
+  {
+    "path": "青空文库[mobi]/[夢枕獏] 大江戸釣客伝　（下）.mobi",
+    "format": "mobi",
+    "bytes": 1717601,
+    "sha256": "28003406ec76c48f7eba491b53fa127c44b0ecfd8ab134d3693d8f7304c5dbc2",
+    "git_blob": "681a0c96ef24f3a46cb5f4f0f5175f4f4a69302c"
+  },
+  {
+    "path": "青空文库[mobi]/[大いなる助走] 筒井康隆.mobi",
+    "format": "mobi",
+    "bytes": 1195491,
+    "sha256": "da6ba695a76b3f09c67ff9716e549a0dd37e051023bfa488de231b5e17e0cb83",
+    "git_blob": "112e3f291e256cbe88ed9240a7c1d93ca6bfad43"
+  },
+  {
+    "path": "青空文库[mobi]/[大森兄弟] 犬はいつも足元にいて.mobi",
+    "format": "mobi",
+    "bytes": 451432,
+    "sha256": "308dbc0b60d4641cc748e80810709d41e6207630a1e04acd1d3da8ba68015848",
+    "git_blob": "1e54261c2ad93e58bef185d9d8cb53fe7b64392b"
+  },
+  {
+    "path": "青空文库[mobi]/[大江健三郎] 死者の奢り・飼育.mobi",
+    "format": "mobi",
+    "bytes": 2261915,
+    "sha256": "cf154b0dc6fd2d0f95cc78743fa1b97dfa4cad7af958647ade4729a0d2b5da95",
+    "git_blob": "636d876e7f2fc6ce82e76cb158a2a70bca17e1ff"
+  },
+  {
+    "path": "青空文库[mobi]/[大道珠貴] しょっぱいドライブ.mobi",
+    "format": "mobi",
+    "bytes": 647561,
+    "sha256": "4b22584249d50f003f98cf41d2ca4bd8691a30597c00c535d4f74fa62676b1ad",
+    "git_blob": "7d9aeedf059c7c697bc957f415f4ac074cdd5f6f"
+  },
+  {
+    "path": "青空文库[mobi]/[天藤　真] 大誘拐.mobi",
+    "format": "mobi",
+    "bytes": 2228545,
+    "sha256": "d576deb8d0e51f33669584c5f9b0f99b5622e191b3d6602e0bbd8de9a6aaa174",
+    "git_blob": "e0549a42ea173f3c919fd348b679fc88adf1e122"
+  },
+  {
+    "path": "青空文库[mobi]/[奥田英朗] 空中ブランコ.mobi",
+    "format": "mobi",
+    "bytes": 1717686,
+    "sha256": "d30537476a33ef0c628950af2d98eae8539bc517b298fbc48455dd9769e439f0",
+    "git_blob": "3ba5abc184ef214838bd3d2c9eb24c39cc8072f1"
+  },
+  {
+    "path": "青空文库[mobi]/[姫野カオルコ] 昭和の犬.mobi",
+    "format": "mobi",
+    "bytes": 1533944,
+    "sha256": "dbb4559fd9a7d0fd4d0add76e55c06556db9dc83c5a6398b738eb8d6f7a741ab",
+    "git_blob": "1119f8e5b7fefc44ed319b6619d13c9f435bdb02"
+  },
+  {
+    "path": "青空文库[mobi]/[安生正] 生存者ゼロ.mobi",
+    "format": "mobi",
+    "bytes": 2996830,
+    "sha256": "e0536c1067fa56b87274803035560a7d0774f6e1f6d186a7081fcc7a7f882799",
+    "git_blob": "9cb4fa38ff0aa2bc07b8d9f29ea7bf6c55bc40a7"
+  },
+  {
+    "path": "青空文库[mobi]/[安藤鶴夫] 巷談　本牧亭.mobi",
+    "format": "mobi",
+    "bytes": 1053359,
+    "sha256": "e0d8e5dfc5af80f4641b258fb3f9ae7c98850901631b337de41a7c3396137095",
+    "git_blob": "b4bd7f42a17d75364aacf6884123f07eb329eedf"
+  },
+  {
+    "path": "青空文库[mobi]/[安部公房] 壁.mobi",
+    "format": "mobi",
+    "bytes": 6126360,
+    "sha256": "1ac9ab33f107d423fde147e0b98c2c2187aabb25901498220977dce51433c885",
+    "git_blob": "08db95c99f3b10bcfabd0941d4771e96a4427146"
+  },
+  {
+    "path": "青空文库[mobi]/[宮下奈都] 羊と鋼の森.mobi",
+    "format": "mobi",
+    "bytes": 1664806,
+    "sha256": "fc2a9d884c047e16300100730e9de291c5558d42747e9c6b523dc2660dedd8c5",
+    "git_blob": "a8ed12b992ef09458f5b13410aca0a0598d1869f"
+  },
+  {
+    "path": "青空文库[mobi]/[宮部みゆき] 蒲生邸事件.mobi",
+    "format": "mobi",
+    "bytes": 2093985,
+    "sha256": "5c773b5ece103e76ffb548060487ed97cce9e883af83040394ff2a12b3a40c5c",
+    "git_blob": "cfe154f3b5cdc838bcc4c1457e13fc02e69b6f75"
+  },
+  {
+    "path": "青空文库[mobi]/[小島信夫] アメリカン・スクール.mobi",
+    "format": "mobi",
+    "bytes": 1569956,
+    "sha256": "9b7c3b735dd1f5a4426772575bd2c0ad3627a3b9fd750f4ad1a08f8c3337868d",
+    "git_blob": "da5d79efe64bdb7d27fa7c8fbd70c40676a25620"
+  },
+  {
+    "path": "青空文库[mobi]/[小川洋子] 妊娠カレンダー.mobi",
+    "format": "mobi",
+    "bytes": 812076,
+    "sha256": "e9ecd47a3fe49c04f65464c1dc449c176a819856f7858b6d2cd0449d56ad150a",
+    "git_blob": "601cfd14c6ff5e7c77bb9e1a491e248ca39d7915"
+  },
+  {
+    "path": "青空文库[mobi]/[小野 不由美] 十二国記　華胥の幽夢.mobi",
+    "format": "mobi",
+    "bytes": 1583025,
+    "sha256": "7712dd92f08c41e51dfc199845077e1b378c43f4263b84f736396570c70e78d1",
+    "git_blob": "d49f6dfbe5fe4af5f8d05d0b94841ff9394b4da0"
+  },
+  {
+    "path": "青空文库[mobi]/[小野 不由美] 十二国記　風の万里　黎明の空（上）.mobi",
+    "format": "mobi",
+    "bytes": 1708738,
+    "sha256": "932f041fdbcf5572efee2b637fc8687111c893f9d66f22ad48eb37182792e9e3",
+    "git_blob": "5effca140431bd8bd9a6f3b9d43bfa2e91d0cd86"
+  },
+  {
+    "path": "青空文库[mobi]/[小野 不由美] 十二国記　風の万里　黎明の空（下）.mobi",
+    "format": "mobi",
+    "bytes": 1661225,
+    "sha256": "37ac78608ea4968fd451cecfeae9ab7c057edf70068cea076200df0f3fde4bdf",
+    "git_blob": "930247adcf32471360e43752cf2bd707b855dd6e"
+  },
+  {
+    "path": "青空文库[mobi]/[小野不由美] 十二国記シリーズ　図南の翼.mobi",
+    "format": "mobi",
+    "bytes": 1872905,
+    "sha256": "263f1f4a4235d43e780568596676996cf51c1d67c2cd08e69880a97dfa298124",
+    "git_blob": "453ceb42fa8afb7552d4966cd258765c9cbca6dc"
+  },
+  {
+    "path": "青空文库[mobi]/[小野不由美] 十二国記シリーズ　月の影　影の海（上）.mobi",
+    "format": "mobi",
+    "bytes": 1360698,
+    "sha256": "ea33d5a64014fb296f470671d1621486cb842e8f29d50a80d555731e48a6a3c3",
+    "git_blob": "663fb851893860f184b537a517cf48458cb1af25"
+  },
+  {
+    "path": "青空文库[mobi]/[小野不由美] 十二国記シリーズ　月の影　影の海（下）.mobi",
+    "format": "mobi",
+    "bytes": 1358570,
+    "sha256": "d0521c0e8fbdddfac253d437a48c8f43aad7d29ab200bd05832c0ec963395453",
+    "git_blob": "5c47ee74c53f2166e1b5d0908aba48a4b2adc088"
+  },
+  {
+    "path": "青空文库[mobi]/[小野不由美] 十二国記シリーズ　東の海神　西の滄海.mobi",
+    "format": "mobi",
+    "bytes": 1551603,
+    "sha256": "bab332de2290ebd5f1763e2923790c215fcce458afc9977dc02552613f880a6e",
+    "git_blob": "0b22f80bdac09108a933ebca603da60be3e82067"
+  },
+  {
+    "path": "青空文库[mobi]/[小野不由美] 十二国記シリーズ　風の海　迷宮の岸(上).mobi",
+    "format": "mobi",
+    "bytes": 1255986,
+    "sha256": "2dab30d257038e64c8485260b84bb5194dfa6c57da571a03922d516574e35982",
+    "git_blob": "ee28ab0ab99c7571173442846f29630b3193b244"
+  },
+  {
+    "path": "青空文库[mobi]/[小野不由美] 十二国記シリーズ　風の海　迷宮の岸(下).mobi",
+    "format": "mobi",
+    "bytes": 1258392,
+    "sha256": "bf2ccad36494612f3dab4b5a2e3064adde37826f70ce27b1036cc7a281adb308",
+    "git_blob": "1581f544b07a301fcd7d3c78f092fb17ba0b5f94"
+  },
+  {
+    "path": "青空文库[mobi]/[小野不由美] 十二国記シリーズ　魔性の子.mobi",
+    "format": "mobi",
+    "bytes": 1408133,
+    "sha256": "2bb5820f458526bb36a772612c0da88b4e7571faa3fb14c70d66f617ee715a8f",
+    "git_blob": "f3b872c861cf3afe5eeaa5ead217ae67a856143a"
+  },
+  {
+    "path": "青空文库[mobi]/[小野不由美] 十二国記シリーズ　黄昏の岸　暁の天.mobi",
+    "format": "mobi",
+    "bytes": 2125258,
+    "sha256": "f9ba792beff9924bcc30571defe07667d1b20e7ec705e3598539fc2c77adb1c4",
+    "git_blob": "12962e0aafeca490d262b07e7fc5db97914c4344"
+  },
+  {
+    "path": "青空文库[mobi]/[小野不由美] 文庫未収録短編 『漂舶』 『丕緒の鳥』 『落照の獄』.mobi",
+    "format": "mobi",
+    "bytes": 559985,
+    "sha256": "8852c626e0ac3a73a0b945fadf2a3a2e01b0dcffbdf7ed2bc746eda10a1366e6",
+    "git_blob": "439d260bd6d70b634133e15848bab11ce2fa9200"
+  },
+  {
+    "path": "青空文库[mobi]/[尾辻克彦] 父が消えた　五つの短篇小説.mobi",
+    "format": "mobi",
+    "bytes": 774889,
+    "sha256": "4176f70bce45940a2299d88d8c3b6af259302e4d350d4821e50d3cda42c5afbf",
+    "git_blob": "b79642631d88ba98eddfb23c4b6b3f0ab7b56267"
+  },
+  {
+    "path": "青空文库[mobi]/[山下澄人] しんせかい.mobi",
+    "format": "mobi",
+    "bytes": 719012,
+    "sha256": "e1af3628ed945861f0bc173a63fb0b2ed8737cbcf121a28f6e159acd71ddac1a",
+    "git_blob": "d92640c2650b6a572c13cac2f298cfbf906b5759"
+  },
+  {
+    "path": "青空文库[mobi]/[山口洋子] 演歌の虫.mobi",
+    "format": "mobi",
+    "bytes": 924369,
+    "sha256": "08f6400b9cf4c3bf060412b710b958d32cfc805ff569efafa937c563fbfd1101",
+    "git_blob": "562a4e4baa9dc82f60336041b9439071688b66ee"
+  },
+  {
+    "path": "青空文库[mobi]/[山口瞳] 江分利満氏の華麗な生活.mobi",
+    "format": "mobi",
+    "bytes": 706291,
+    "sha256": "c24ed3296f162675adb8b911a7d7ec5be38033fedcd9baeda1c2e681f65e3765",
+    "git_blob": "44089aa315fc1f0a886c2d86b1d569d984a5c86b"
+  },
+  {
+    "path": "青空文库[mobi]/[山口芳宏] 雲上都市の大冒険.mobi",
+    "format": "mobi",
+    "bytes": 4741862,
+    "sha256": "704ebc9325cf587cdc20f6bef21e88e54cf1faa96a73e74f80e17576c9f13f1d",
+    "git_blob": "81fc39cef225d5949082be98b468100445defbe7"
+  },
+  {
+    "path": "青空文库[mobi]/[山本一力] あかね空.mobi",
+    "format": "mobi",
+    "bytes": 1248942,
+    "sha256": "6b132a9be76d45da45b8817959e6b213f482f74b1f67663a1197a3be64b4b74f",
+    "git_blob": "2820b29bba243c37761b793e20434ff6d541aabc"
+  },
+  {
+    "path": "青空文库[mobi]/[山本文緒] プラナリア.mobi",
+    "format": "mobi",
+    "bytes": 1094289,
+    "sha256": "bf49ebcadf2a9ff1d2d151ddeea72e7090257f015da547870ddbbf2764d91dd2",
+    "git_blob": "51810f1c90ea70847d2020fb1781d4daf487964a"
+  },
+  {
+    "path": "青空文库[mobi]/[山本道子] ベティさんの庭.mobi",
+    "format": "mobi",
+    "bytes": 952913,
+    "sha256": "5bf3991c43de307d74b9c637434ef7b5b5224bb5b424ff1eb8d17d8b9731238e",
+    "git_blob": "cfa3aab77219709722231154fc0fcb5e1371d9ab"
+  },
+  {
+    "path": "青空文库[mobi]/[岩井志麻子] ぼっけえ、きょうてえ.mobi",
+    "format": "mobi",
+    "bytes": 1078942,
+    "sha256": "32dd9883366bb11fcca86f7a39500c1526c8fa2241c832e484cbbc2a0724b1f9",
+    "git_blob": "9d8cec23c9fc61cd03e85d4c88bb037345327d5f"
+  },
+  {
+    "path": "青空文库[mobi]/[岩木一麻] がん消滅の罠.mobi",
+    "format": "mobi",
+    "bytes": 2445198,
+    "sha256": "d85c9b3e7799b7c1efcaef7ec6029941fb3e060605115819c967c3c4549071b5",
+    "git_blob": "1c61820c445fbcd63830185a3d29058b6e0a000f"
+  },
+  {
+    "path": "青空文库[mobi]/[川上弘美] センセイの鞄.mobi",
+    "format": "mobi",
+    "bytes": 745612,
+    "sha256": "31b231e829ba25109ae7ca796474fadf53283a7c4458fafcf435e1d50e67561a",
+    "git_blob": "f4baa1ac7cb86ef0ebef20ee6c23154108110ddb"
+  },
+  {
+    "path": "青空文库[mobi]/[川上弘美] 蛇を踏む.mobi",
+    "format": "mobi",
+    "bytes": 564549,
+    "sha256": "15d117dfe41bf95b36960a4e51e1775741dacacea64e4587262dd2e236238e6a",
+    "git_blob": "8403b4ee7c2b455e8399b95e2d518891bee7894e"
+  },
+  {
+    "path": "青空文库[mobi]/[帝都物語　第壱番] 荒俣宏.mobi",
+    "format": "mobi",
+    "bytes": 7173785,
+    "sha256": "3def88306d30db48010099009653088a5830219da4d95390f801a507998ad4e4",
+    "git_blob": "1be4c596f40957e4ccd4886f217ba1f40554c583"
+  },
+  {
+    "path": "青空文库[mobi]/[帝都物語　第弐番] 荒俣宏.mobi",
+    "format": "mobi",
+    "bytes": 6080813,
+    "sha256": "00838331601d1dfb71682225098e7fd602e107397bd1750c6b4cd71906fce97c",
+    "git_blob": "87ecb8e44e78075e4bf7c1d53765753bf90c8df2"
+  },
+  {
+    "path": "青空文库[mobi]/[平　安寿子] 素晴らしい一日.mobi",
+    "format": "mobi",
+    "bytes": 929937,
+    "sha256": "a9f09de6fef5cbc11fb528505eff93a59da3a9b5e2b429ac6af20f2040282303",
+    "git_blob": "833cf085f5eb05b879b983afc00e86f870bfe7f3"
+  },
+  {
+    "path": "青空文库[mobi]/[平岩弓枝] 鏨　師.mobi",
+    "format": "mobi",
+    "bytes": 850338,
+    "sha256": "76ea7b9d5d322f061843fa254d98b0d34c89b3e57d70b4468084c95f0df2d406",
+    "git_blob": "8460c93d2b17ac2d9c5aab8e6bc0db114b198a69"
+  },
+  {
+    "path": "青空文库[mobi]/[庄司薫] 赤頭巾ちゃん気をつけて.mobi",
+    "format": "mobi",
+    "bytes": 1582543,
+    "sha256": "3be47aaf5734b9b684e88499509e758fed4069ff7890bdd9e1203ba637bc6f76",
+    "git_blob": "8cd1fa6db716a30e2b018cc1e3debd3a54451b48"
+  },
+  {
+    "path": "青空文库[mobi]/[恒川光太郎] 夜市.mobi",
+    "format": "mobi",
+    "bytes": 839729,
+    "sha256": "8982ddbedfd595969bacb2734e8afdc296c6f3dddb45a673778e52b07fb23bf9",
+    "git_blob": "06fc4c5302cf34ce2d288f042f20d715fca59b30"
+  },
+  {
+    "path": "青空文库[mobi]/[恩田陸] 夜のピクニック.mobi",
+    "format": "mobi",
+    "bytes": 3227437,
+    "sha256": "9cc4b5f94f99a152a9846bdd1a3406965930dab762d7679534e20298d578bb4e",
+    "git_blob": "37b1f853c9d3936c0102aadb20df214864dd4359"
+  },
+  {
+    "path": "青空文库[mobi]/[恩田陸] 蜜蜂と遠雷.mobi",
+    "format": "mobi",
+    "bytes": 3816541,
+    "sha256": "5810d1e7a62137f23ef85bb4c44b5b78855872451e2362e75029ef9d7a0e28a8",
+    "git_blob": "07487fe47a138c9596b46df1aa35aa40e925e0e4"
+  },
+  {
+    "path": "青空文库[mobi]/[新井　満] 尋ね人の時間.mobi",
+    "format": "mobi",
+    "bytes": 770131,
+    "sha256": "d6d57a1bc81676cb158bcb8359e99db2a013f7f651209c476a9b0a9d63de2234",
+    "git_blob": "3809f1eac66c0abcccca3038887b0a060e7a09da"
+  },
+  {
+    "path": "青空文库[mobi]/[日野啓三] あの夕陽.mobi",
+    "format": "mobi",
+    "bytes": 958315,
+    "sha256": "5c569399afe82b6645ad3425ab5e96bfecfe6cf81f1e14d4ca7b7843d5c4443e",
+    "git_blob": "71ca4e2ec76dd4736c3344ea67b9dffbb2291ff0"
+  },
+  {
+    "path": "青空文库[mobi]/[曽根圭介] 鼻.mobi",
+    "format": "mobi",
+    "bytes": 1194199,
+    "sha256": "f2f7baba706e8b939d83f79eeb15224d37926eaecd51f7541bdda7d73dea55bf",
+    "git_blob": "6db81bf0a754e35a95cb6f89b11695510a9d4a24"
+  },
+  {
+    "path": "青空文库[mobi]/[有川　浩] 塩の街 wish on my precious.mobi",
+    "format": "mobi",
+    "bytes": 2670553,
+    "sha256": "c70e5b0b2a32215be15a141870ade30a40057540f1b1ed6bbc78a184bd4e70e0",
+    "git_blob": "ee17b59cce4f95f45e81d759684ca26b2984a5d4"
+  },
+  {
+    "path": "青空文库[mobi]/[朝井リョウ] 何者.mobi",
+    "format": "mobi",
+    "bytes": 1798565,
+    "sha256": "bc2a90c3ca32f700be5c5dd553f6cbb191625c1930c124d86d754dff534297ea",
+    "git_blob": "1fa3e952a554887a15c2107faf2546fdae0107f3"
+  },
+  {
+    "path": "青空文库[mobi]/[木内昇] 漂砂のうたう.mobi",
+    "format": "mobi",
+    "bytes": 1562310,
+    "sha256": "cb82e9ddc9720bdde91179e117ac91780afdf778619d6a0776cc4683b033b6a8",
+    "git_blob": "8ce66722e096057ac77d832e9f4e30eb7227ca6d"
+  },
+  {
+    "path": "青空文库[mobi]/[本谷有希子] 異類婚姻譚.mobi",
+    "format": "mobi",
+    "bytes": 654090,
+    "sha256": "fb315efc74475f5a6a886d565e22915476d676b6e62ec6f31dfb367929ddeed9",
+    "git_blob": "61b0314f4f32c4edfa84d80bf99ac52b03688327"
+  },
+  {
+    "path": "青空文库[mobi]/[村上　龍] 限りなく透明に近いブルー.mobi",
+    "format": "mobi",
+    "bytes": 3705456,
+    "sha256": "c6d2a8224377ac3d69c86a0876cd633a9210dfe76e165d0e5aaa3b9b651ba659",
+    "git_blob": "1b2650943c27e17f65909e6d9d26db298961d77f"
+  },
+  {
+    "path": "青空文库[mobi]/[村山由佳] 星々の舟.mobi",
+    "format": "mobi",
+    "bytes": 1434442,
+    "sha256": "c005564054ca11ed2b4b6345c59ff5c3807cd6fed94e8553f2cb32d4f53d8cea",
+    "git_blob": "fd0e753327a6b09d8b13e849c91a84f9a78a880f"
+  },
+  {
+    "path": "青空文库[mobi]/[村田沙耶香] コンビニ人間.mobi",
+    "format": "mobi",
+    "bytes": 894396,
+    "sha256": "1f71dda3678c2e74dfca242bafe29c339ce02e6c29da1f9eeb1592dd7a4180a5",
+    "git_blob": "9826ee0ce96f9b2f6f3b32640dfe26742b766897"
+  },
+  {
+    "path": "青空文库[mobi]/[東　峰夫] オキナワの少年.mobi",
+    "format": "mobi",
+    "bytes": 992420,
+    "sha256": "92ecd8fb5d584afafe16999356320ec404bbbcb5aa939f0b0dd137360cf2811b",
+    "git_blob": "3949be8a3dcdc990128e8ea4d85f63fd64a2349f"
+  },
+  {
+    "path": "青空文库[mobi]/[東山彰良] 流.mobi",
+    "format": "mobi",
+    "bytes": 2313202,
+    "sha256": "a9a4061e783576056e9aca6ea9d34dabda3e37859bad0d067bae78a8c1ae49a5",
+    "git_blob": "f7d42ce73bc94f9a4e8e09eea37322adf5e07f42"
+  },
+  {
+    "path": "青空文库[mobi]/[東川篤哉] 謎解きはディナーのあとで.mobi",
+    "format": "mobi",
+    "bytes": 1292094,
+    "sha256": "d5b0e4c5016ce23bea5cbc194ca5d01bceead3311ccddb43efcd7137899d999f",
+    "git_blob": "8fef604861d6afb038f51aa1500c4349ca042a71"
+  },
+  {
+    "path": "青空文库[mobi]/[東川篤哉] 謎解きはディナーのあとで２.mobi",
+    "format": "mobi",
+    "bytes": 1528692,
+    "sha256": "3df1c8716f2b82871287d05489991b7a00490be304e588fdf31e065ad94192f0",
+    "git_blob": "23d26af80cd58b10c3c0766ed8c10f7de90d0bb7"
+  },
+  {
+    "path": "青空文库[mobi]/[東川篤哉] 謎解きはディナーのあとで３.mobi",
+    "format": "mobi",
+    "bytes": 2617592,
+    "sha256": "22e3f9c1a565c9bb2b9a2bc3ad1fcdefd2d903b02182a86f532d96094c3ba048",
+    "git_blob": "b115cdc4b982dee6c30eed959013ee111020b5d5"
+  },
+  {
+    "path": "青空文库[mobi]/[東野圭吾] 嘘をもうひとつだけ.mobi",
+    "format": "mobi",
+    "bytes": 988457,
+    "sha256": "d685d4b487b407dd43d7e8840087fcbb31998b30f52d34e82b47ee7b5d984b9e",
+    "git_blob": "049b60b6fd50a9b2c0601ce252cbffa53499c3c6"
+  },
+  {
+    "path": "青空文库[mobi]/[東野圭吾] 容疑者Ｘの献身.mobi",
+    "format": "mobi",
+    "bytes": 1619884,
+    "sha256": "dc167f411e79560c34aa1e19728e212fd8f84b5a2e406f1980e4b6f3499ff71c",
+    "git_blob": "961e7b6b256a0c65a120a06a5d4c860a803763c6"
+  },
+  {
+    "path": "青空文库[mobi]/[林真理子] 最終便に間に合えば.mobi",
+    "format": "mobi",
+    "bytes": 735985,
+    "sha256": "3da4893ccad252936c6c46da3b7fd570fe34b67292885766cc1f235d19c65384",
+    "git_blob": "ff7a8267ecfb7ec2daabe8dbf3f24e0cccabed8e"
+  },
+  {
+    "path": "青空文库[mobi]/[柏原兵三] 徳山道助の帰郷.mobi",
+    "format": "mobi",
+    "bytes": 1348865,
+    "sha256": "2c715b5f3bf6a4f664ca685525dd54c1794f3df36b2da2094a8e9021fca0d8bb",
+    "git_blob": "23fb897251cdbe1723ae99b8057526a2a009af6e"
+  },
+  {
+    "path": "青空文库[mobi]/[柳美里] フルハウス.mobi",
+    "format": "mobi",
+    "bytes": 1083513,
+    "sha256": "4e5de587eeb8ec51f611e2ccb87e3a4a4b72372d96d11d829c2b8b4a25421306",
+    "git_blob": "fc8c99d7bac6ab99dfc77609caba7a940c016664"
+  },
+  {
+    "path": "青空文库[mobi]/[柴崎友香] 春の庭.mobi",
+    "format": "mobi",
+    "bytes": 1137950,
+    "sha256": "cee3b6d01dcd0f986fbfd454a121644b9e6c15c3a6820b661f6f2c0fd183dde8",
+    "git_blob": "6d3e69a9dadb5e24da8fc87af9f32ae4c7e9ecbe"
+  },
+  {
+    "path": "青空文库[mobi]/[柴田　翔] されど　われらが日々──.mobi",
+    "format": "mobi",
+    "bytes": 1155408,
+    "sha256": "3d9811fbd2cce1dbaf2ed9f00d30c40bc4c36ce9b756f06fcba71b101ca95dde",
+    "git_blob": "9d30d226e27da474baa453296cd57395ef2764ca"
+  },
+  {
+    "path": "青空文库[mobi]/[桜庭一樹] 私の男.mobi",
+    "format": "mobi",
+    "bytes": 1764405,
+    "sha256": "1b6b460315081aae74d207840b813c8a361333afb964992f0f2fc3a70e072cde",
+    "git_blob": "4063a0dbe19886c66443f1acfb182704d2653056"
+  },
+  {
+    "path": "青空文库[mobi]/[桜庭一樹] 赤朽葉家の伝説.mobi",
+    "format": "mobi",
+    "bytes": 2014195,
+    "sha256": "7506099465fd373d4d9e46d6da9b69d7abfecc4644dc5b2e2253eeed9e6c7d06",
+    "git_blob": "98de087938a2441008b4322b00103ed1438d0702"
+  },
+  {
+    "path": "青空文库[mobi]/[桜木紫乃] ホテルローヤル.mobi",
+    "format": "mobi",
+    "bytes": 5163164,
+    "sha256": "d2aecc503ade088fab0852d04a6c9b1d3689e0a2ad6d34b67e3669c5d62e1623",
+    "git_blob": "e6ea8269870f7a5f76331d47901c2db249a32a0c"
+  },
+  {
+    "path": "青空文库[mobi]/[森 博嗣] Gシリーズ00 短編 刀之津診療所の怪.mobi",
+    "format": "mobi",
+    "bytes": 226477,
+    "sha256": "178595ab59cb417345d4e6080567b138d640ed6bc4fca5c29b95d675acf38255",
+    "git_blob": "697790e468d1c95047b837bcda96bdc53693961a"
+  },
+  {
+    "path": "青空文库[mobi]/[森 博嗣] Gシリーズ01 φは壊れたね.mobi",
+    "format": "mobi",
+    "bytes": 672382,
+    "sha256": "f012730e876013765489f0225da310364651d3036f87e54338f5dafee44ab1ad",
+    "git_blob": "8e44e26d777ee09c06ac5f8273921c4069c30805"
+  },
+  {
+    "path": "青空文库[mobi]/[森 博嗣] Gシリーズ02 θは遊んでくれたよ.mobi",
+    "format": "mobi",
+    "bytes": 723769,
+    "sha256": "8effe08279d0be3523e65a977a02d2d51f1e8269af6ca35968a4a6da928a9434",
+    "git_blob": "acdaad8cbbafa3bcd9be244b007654fe505b08b1"
+  },
+  {
+    "path": "青空文库[mobi]/[森 博嗣] Gシリーズ03 τになるまで待って.mobi",
+    "format": "mobi",
+    "bytes": 744621,
+    "sha256": "96729034bad49b045fecf854ae501cfda8579d6591b716573c09afc78fc832ec",
+    "git_blob": "70c13aef91443c74a588360a3ea5cc5e9c98e14b"
+  },
+  {
+    "path": "青空文库[mobi]/[森 博嗣] Gシリーズ04 εに誓って.mobi",
+    "format": "mobi",
+    "bytes": 649135,
+    "sha256": "7a7061952475291a0d1160cc77176d36357f88a3c4bec494f1c0a4ea19f802a1",
+    "git_blob": "1adb375e212f4e6d761c816e12466f9568a970d8"
+  },
+  {
+    "path": "青空文库[mobi]/[森 博嗣] Gシリーズ05 λに歯がない.mobi",
+    "format": "mobi",
+    "bytes": 635534,
+    "sha256": "e3d9d8b9f0cd3cf4781cdbadfec90e2cf14be71145fd48c7c97dcbe7464b3f8e",
+    "git_blob": "7b121c8da3d6073ea2725e0bd19a096b86d03099"
+  },
+  {
+    "path": "青空文库[mobi]/[森 博嗣] Gシリーズ06 ηなのに夢のよう.mobi",
+    "format": "mobi",
+    "bytes": 622034,
+    "sha256": "50fece7d462daf07e72f4692504c6d4ea291fc54fea7a05b54d392eaa83746c8",
+    "git_blob": "2e87f1304310586cd6262b900b63e0ace6becabe"
+  },
+  {
+    "path": "青空文库[mobi]/[森 博嗣] Gシリーズ07 目薬αで殺菌します.mobi",
+    "format": "mobi",
+    "bytes": 697710,
+    "sha256": "b271fe10fbaa05d0c4b0e870dd30f6dbc7103d16ba8e9b67e5b0f4249da2e79f",
+    "git_blob": "00ad2272783eecf55ebc9b9e499bc187d9c16c1c"
+  },
+  {
+    "path": "青空文库[mobi]/[森 博嗣] X 01 イナイ×イナイ.mobi",
+    "format": "mobi",
+    "bytes": 639466,
+    "sha256": "4c408a10ce8a6bf74c56c890b0a1dedae5b1eb82aafddf15d88b7907c05d658b",
+    "git_blob": "9135f441928fac59664d768aa42f09b20b38b5f5"
+  },
+  {
+    "path": "青空文库[mobi]/[森 博嗣] X 02 キラレ×キラレ.mobi",
+    "format": "mobi",
+    "bytes": 652765,
+    "sha256": "9c76170f5ad8e4c85a89721ed575f1ce9b29e19f8a2c7d7fdc94801f73a8d08c",
+    "git_blob": "9f6a6d95f7cf1ac3e5f69ab4c37a7d3e969b1ccc"
+  },
+  {
+    "path": "青空文库[mobi]/[森 博嗣] X 03 タカイ×タカイ.mobi",
+    "format": "mobi",
+    "bytes": 691050,
+    "sha256": "5ca9c1808153bd161b8023f3604768c98f125f3ea5233a9f1e9cc86cc7b0a07a",
+    "git_blob": "d740228e3920d626bcb961df90632218fb6abbb6"
+  },
+  {
+    "path": "青空文库[mobi]/[森 茉莉] 甘い蜜の部屋.mobi",
+    "format": "mobi",
+    "bytes": 1963335,
+    "sha256": "b52e7a1136f6273256e2c5945949c9de97acbec5aadbf8af5ba84383ee0d1085",
+    "git_blob": "a7a7b8884ad7404eee34ee50f901cd67aac9d0ed"
+  },
+  {
+    "path": "青空文库[mobi]/[森　博嗣] スカイ・クロラ.mobi",
+    "format": "mobi",
+    "bytes": 751682,
+    "sha256": "9dc191fa5cf21198a1fd7c5f03a60e3c3c9c332aaca36fd2198f3d7546b776ac",
+    "git_blob": "3cb9dac13f8646b538ac10ab4c6c0b5a77e4ac84"
+  },
+  {
+    "path": "青空文库[mobi]/[森　絵都] ＤＩＶＥ　上.mobi",
+    "format": "mobi",
+    "bytes": 1420020,
+    "sha256": "30b6a9eaf65fe6e6dc6d9e559f4f10a7f69b8e78757bfb39c61efc22e845eee4",
+    "git_blob": "8b8dc4486ba62ecadb4f23dbe3da257e47640404"
+  },
+  {
+    "path": "青空文库[mobi]/[森　絵都] ＤＩＶＥ　下.mobi",
+    "format": "mobi",
+    "bytes": 1491006,
+    "sha256": "2af991aa070edd5a45f8855acf35f011f3acbb897d97951210b805ebb27128ea",
+    "git_blob": "ba455ec9236bdaeef9953a14b139a4b3f8b1aeec"
+  },
+  {
+    "path": "青空文库[mobi]/[森敦] 月山・鳥海山.mobi",
+    "format": "mobi",
+    "bytes": 1472776,
+    "sha256": "81e8ba10e08cd700f3303bdca0d8b3e7fd262631d52cb95aa31d7e4e3be97427",
+    "git_blob": "b4f6b08853ce981024d01a027ed2109428e403f8"
+  },
+  {
+    "path": "青空文库[mobi]/[森瑤子] 情事.mobi",
+    "format": "mobi",
+    "bytes": 1428654,
+    "sha256": "39439adae140fe40dda411e901445072b42e4a173c3f880036df6c208e20c13e",
+    "git_blob": "2f3053831dc8c581c575562a2a54ea03eafe2cc9"
+  },
+  {
+    "path": "青空文库[mobi]/[森田誠吾] 魚河岸ものがたり.mobi",
+    "format": "mobi",
+    "bytes": 1261864,
+    "sha256": "449a9679e964a382d2ef273c991c35de90f9f39b5727218754ae213121c23de7",
+    "git_blob": "1a68f55d5d902de5ae770be457cfc0b5d2caa13a"
+  },
+  {
+    "path": "青空文库[mobi]/[森福　都] 長安牡丹花異聞.mobi",
+    "format": "mobi",
+    "bytes": 1004088,
+    "sha256": "9142c3ffabb64d6d199c97379387844691e55de2191f88dbc2fc6c337300a74c",
+    "git_blob": "665b92af3cf5fba4ed1120cf8290540f3a06d912"
+  },
+  {
+    "path": "青空文库[mobi]/[森禮子] モッキングバードのいる町.mobi",
+    "format": "mobi",
+    "bytes": 757308,
+    "sha256": "0863ed3ebb1a57dba66dc7fb09b029f378950b983da7887ffd58751621483ac5",
+    "git_blob": "851104cbe046c86b4ae9a6ca9a6b2e2d7c844444"
+  },
+  {
+    "path": "青空文库[mobi]/[森絵都] 風に舞いあがるビニールシート.mobi",
+    "format": "mobi",
+    "bytes": 1165262,
+    "sha256": "a9479f7c4d95cbc01558a0c4e4dfff064450806683ef2ba88c95c248c5ac2c6c",
+    "git_blob": "7d1a2fc8d217d0219545463a3eea66c4be4d6fd4"
+  },
+  {
+    "path": "青空文库[mobi]/[森見登美彦] ペンギン・ハイウェイ.mobi",
+    "format": "mobi",
+    "bytes": 1103667,
+    "sha256": "bd2356daaa4ddd4a950b68a9417b0adec89e3f75edb603ebc88756c73b872756",
+    "git_blob": "374024183a7089db8d09fdfb05d3fb1c27fc2447"
+  },
+  {
+    "path": "青空文库[mobi]/[楊逸] 時が滲む朝.mobi",
+    "format": "mobi",
+    "bytes": 1132713,
+    "sha256": "c86acdf25da177112d606128fa1ea9c44dda270d1f0b8e8ce1142b00ff8e3625",
+    "git_blob": "9994fc64c83c6b86e6911a17f39c621a39c0c295"
+  },
+  {
+    "path": "青空文库[mobi]/[櫛木理宇] 赤と白.mobi",
+    "format": "mobi",
+    "bytes": 2172771,
+    "sha256": "0818c49f702e60f5cbdfe46d167305828ee7064011ad3d17502277a97d06d5f2",
+    "git_blob": "38e88b30e5b797cc656cac53fc80a6df5b38aa26"
+  },
+  {
+    "path": "青空文库[mobi]/[水上勉] 雁の寺・越前竹人形.mobi",
+    "format": "mobi",
+    "bytes": 1111704,
+    "sha256": "87a50550971dd605bbbb8dc4010984517680afb9aa2f4a33e216223b37f5a01a",
+    "git_blob": "b87eba3b23f6712160072b3dab8f5e33a1b936b1"
+  },
+  {
+    "path": "青空文库[mobi]/[水上勉] 雁の寺（全）.mobi",
+    "format": "mobi",
+    "bytes": 1082960,
+    "sha256": "ee79178d76f108e5a0ef978a4b1ff1d57931c22ad03df87e50bf1927527d43ed",
+    "git_blob": "916dc1f279cbbe55dbfc7c6e0f4b20e0c9adb88a"
+  },
+  {
+    "path": "青空文库[mobi]/[池井戸潤] 下町ロケット.mobi",
+    "format": "mobi",
+    "bytes": 7123064,
+    "sha256": "25d0ac6268443240dc2d2d669ff3e001f70e9fb9fd87a8374e7b68a397899256",
+    "git_blob": "fb241ba88bb061317f55c47670b323eb51f14453"
+  },
+  {
+    "path": "青空文库[mobi]/[池澤夏樹] スティル・ライフ.mobi",
+    "format": "mobi",
+    "bytes": 2292697,
+    "sha256": "7b344f59fa02a68749f55aea64743310fb2b0fb706c6e891cc6829d0ed58c323",
+    "git_blob": "dfa87580844162903b3f635f8be748625f0da008"
+  },
+  {
+    "path": "青空文库[mobi]/[法月綸太郎] 生首に聞いてみろ.mobi",
+    "format": "mobi",
+    "bytes": 2959010,
+    "sha256": "0386f14f05b0f3c1f83ce21e90d769e2790dc57570db0a1c4aee07fe29e3def4",
+    "git_blob": "65d33e4adee72a8a2105af7efbc971e67c2c15a7"
+  },
+  {
+    "path": "青空文库[mobi]/[泡坂妻夫] 折鶴.mobi",
+    "format": "mobi",
+    "bytes": 1200944,
+    "sha256": "78df4ac93034921639576cdcd3ddde5a2df2a3d179b8b3e7a9859372759899cc",
+    "git_blob": "608425466e0e9d238a7bb37834d885a481e2b5cf"
+  },
+  {
+    "path": "青空文库[mobi]/[泡坂妻夫] 蔭桔梗.mobi",
+    "format": "mobi",
+    "bytes": 940565,
+    "sha256": "5d50c56b22503dec7cc12bc9401c7d9bf0d7e45a98c58b279051cf2ff38928bc",
+    "git_blob": "f8df53a7611825ef2b615aceb2d1400c1d34ca8d"
+  },
+  {
+    "path": "青空文库[mobi]/[浅田次郎] 壬生義士伝 上.mobi",
+    "format": "mobi",
+    "bytes": 1441180,
+    "sha256": "66a0336680c932ff4ff3a8120b55f5333b8ea8d4f8da2d88070fce7aaa0ecb17",
+    "git_blob": "a02fd8dabc13eaa6626d227cf9688ec34542cefd"
+  },
+  {
+    "path": "青空文库[mobi]/[浅田次郎] 壬生義士伝 下.mobi",
+    "format": "mobi",
+    "bytes": 1353336,
+    "sha256": "0497bfbf18afd5f15da1f98e3291ea08ee705404a68cab5002eb989d2c028c46",
+    "git_blob": "0f974b17f389706dcc3e25b421071800e00a775e"
+  },
+  {
+    "path": "青空文库[mobi]/[浅田次郎] 鉄道員（ぽっぽや）.mobi",
+    "format": "mobi",
+    "bytes": 1537046,
+    "sha256": "8a7cf209039ff65e901d158ff5652c3aad859fbc7a39a9ca168b8df78327e493",
+    "git_blob": "cc9fd736dee2b917650f96e867fc2768e5ae3b14"
+  },
+  {
+    "path": "青空文库[mobi]/[深田祐介] 炎熱商人（上）.mobi",
+    "format": "mobi",
+    "bytes": 3394032,
+    "sha256": "54d72fc60ef7cabba250c5c407daad5b14d001e08479ef899b3dcb3557322e2f",
+    "git_blob": "758ce5fdbb5fad080cec1e7b9d0d95ea895c4195"
+  },
+  {
+    "path": "青空文库[mobi]/[深田祐介] 炎熱商人（下）.mobi",
+    "format": "mobi",
+    "bytes": 3829132,
+    "sha256": "5fe88d8de651cabb035e4dbe80c478b33aea4bece31a473e7f16debf4f2e995a",
+    "git_blob": "ef4efec5c8371f2f63d8a4a14f03e54e104bbd5b"
+  },
+  {
+    "path": "青空文库[mobi]/[渡辺淳一] 光と影.mobi",
+    "format": "mobi",
+    "bytes": 826651,
+    "sha256": "f7ebb82a7f11e9892d491a9eb0a40ce204c8bd44e402e897d71f7308f70d3ade",
+    "git_blob": "be0da434197e7547d38daf8435de828b200dbc4c"
+  },
+  {
+    "path": "青空文库[mobi]/[澁澤龍彦] 高丘親王航海記.mobi",
+    "format": "mobi",
+    "bytes": 3463251,
+    "sha256": "85b58016b907e1b3ac03f93d0fd322d5cc6db09032630fc3a91a08dc3eca2ede",
+    "git_blob": "2f5eee8ccb58340b3109a87371b0b3a70716b55f"
+  },
+  {
+    "path": "青空文库[mobi]/[瀧澤美恵子] ネコババのいる町で.mobi",
+    "format": "mobi",
+    "bytes": 1357728,
+    "sha256": "a8cdad837a01263259ea5090ead091ffa536e3e3d3a363b8a50ee6b80245156c",
+    "git_blob": "f8fd15f6e6d69b1034d0f2c172fd283b9c86614b"
+  },
+  {
+    "path": "青空文库[mobi]/[瀬名秀明] パラサイト・イブ.mobi",
+    "format": "mobi",
+    "bytes": 2441332,
+    "sha256": "c190b3a55f7d41b4d2616cc5c709b888a9aca0f67efa907e8d2f42c8edc1a10a",
+    "git_blob": "13d7173a6ff41bd90bc6ba0c391676c80f6edec5"
+  },
+  {
+    "path": "青空文库[mobi]/[田久保英夫] 深い河.mobi",
+    "format": "mobi",
+    "bytes": 730128,
+    "sha256": "ee6ad4a3826c3631fe8c64bef0e5af51fd69571bcceec0ad3b81b7ed53a0ffe7",
+    "git_blob": "3f0557eda1f14ff2b2ae618602f3339f8c34cc42"
+  },
+  {
+    "path": "青空文库[mobi]/[皆川博子] 恋紅.mobi",
+    "format": "mobi",
+    "bytes": 1146023,
+    "sha256": "4f23ad5f62903e6805c15af939f7e6de75ab54074fc0309330de0e673c834316",
+    "git_blob": "aa2b19814d97588f86a6e2118dbd13a8ee9a8b28"
+  },
+  {
+    "path": "青空文库[mobi]/[相沢沙呼] 午前零時のサンドリヨン.mobi",
+    "format": "mobi",
+    "bytes": 1694004,
+    "sha256": "9b6f204986a18165cd80ebc6c20f681d1d2b44fc352d23b19be46162cf2f76b2",
+    "git_blob": "1461cf78a0ad1b02df9ba4893a669594f2f942c9"
+  },
+  {
+    "path": "青空文库[mobi]/[石原慎太郎] 太陽の季節.mobi",
+    "format": "mobi",
+    "bytes": 1147787,
+    "sha256": "1899e5eee507173968826efd3d3b0f2995c6d29e06f66f35d78435f0bb82cdaf",
+    "git_blob": "811d0d9d680577ebb3709399893d692fbd248912"
+  },
+  {
+    "path": "青空文库[mobi]/[石崎幸二] 日曜日の沈黙.mobi",
+    "format": "mobi",
+    "bytes": 1680262,
+    "sha256": "9df35f7cd6ff8a9366362fbd1bf085ae664b4d801259e89a368703196086d2d2",
+    "git_blob": "bab8e19aaf2f7c2be03e37f01c9a0c172f82117e"
+  },
+  {
+    "path": "青空文库[mobi]/[石田衣良] 4teen.mobi",
+    "format": "mobi",
+    "bytes": 1905651,
+    "sha256": "cb239bf94e10e47b834194adf754ef5bccecddd1e7c2bac0328f422dea960a26",
+    "git_blob": "a1e9142f7c015b5f676fb345c55afb55de88efd8"
+  },
+  {
+    "path": "青空文库[mobi]/[神吉拓郎] 私生活.mobi",
+    "format": "mobi",
+    "bytes": 789348,
+    "sha256": "ee71f2c05269968d9515b18ed6359de561f806c8674ce84855aadd67f69a9c68",
+    "git_blob": "f7843859cc0b6c7e730785469e6b33c213429100"
+  },
+  {
+    "path": "青空文库[mobi]/[秋山瑞人] 猫の地球儀 その２　幽の章.mobi",
+    "format": "mobi",
+    "bytes": 3130401,
+    "sha256": "1c2e2d8c5cd089a857eb08e94dcfd14efbdc5dd394e15098476d21996703d088",
+    "git_blob": "cc9be7f09b8172e20cdad4a74376266e63b88942"
+  },
+  {
+    "path": "青空文库[mobi]/[秋山瑞人] 猫の地球儀　焔の章.mobi",
+    "format": "mobi",
+    "bytes": 2346059,
+    "sha256": "eb4010fa8e5ba1d3715bdd16afb10e60a9c2b4c0108a45caa1aa898dde4b2c02",
+    "git_blob": "90d234e0670a566482b4f532041abea7498c93ee"
+  },
+  {
+    "path": "青空文库[mobi]/[竹本健治] 涙香迷宮.mobi",
+    "format": "mobi",
+    "bytes": 6816644,
+    "sha256": "8391aa8d8f20d70dc05a8baf299611fa02d25a7dc44f2ef10b4726bc65e132eb",
+    "git_blob": "c70e36f1f2263526221a3d075b367d9b7abe4808"
+  },
+  {
+    "path": "青空文库[mobi]/[笹倉明] 遠い国からの殺人者.mobi",
+    "format": "mobi",
+    "bytes": 1403404,
+    "sha256": "d5f50988d908ef4c3a657cad6fdf9bba2ef1721e645b6e43937af0f06c1e34ea",
+    "git_blob": "fde9170485f83f2d71703d7bb8bc3963fa276342"
+  },
+  {
+    "path": "青空文库[mobi]/[筒井康隆] わたしのグランパ.mobi",
+    "format": "mobi",
+    "bytes": 497848,
+    "sha256": "163d046d42247db389ea55b1e6f8a8b885e39c5f3408a5efaac53f0fdff88f78",
+    "git_blob": "cf80f560989a81117ea8b2ad14166edd869358b3"
+  },
+  {
+    "path": "青空文库[mobi]/[筒井康隆] 時をかける少女.mobi",
+    "format": "mobi",
+    "bytes": 2102727,
+    "sha256": "a9c51ff6b484a1d711d4c56859a05b0d800977ab1205579ab98a9dad62217374",
+    "git_blob": "d0b0d6255f63f7d130b50bfb7f5eb435405156c8"
+  },
+  {
+    "path": "青空文库[mobi]/[篠原勝之] 骨風.mobi",
+    "format": "mobi",
+    "bytes": 3244594,
+    "sha256": "ee8c8c5070f69f5ea5ab3e5df7198cbcf7399012e4654e0eb147e94729a62c79",
+    "git_blob": "c71e8d221a1726247cc3a8a6b5fc4969f780297e"
+  },
+  {
+    "path": "青空文库[mobi]/[篠田節子] 女たちのジハード.mobi",
+    "format": "mobi",
+    "bytes": 2223057,
+    "sha256": "2a42c9b2abd626d3cf19ab2be435ec3e0cf7baccbcb9ec306daf39838ff22c80",
+    "git_blob": "3622a5314515919c2c812cb511dc1f625067c38c"
+  },
+  {
+    "path": "青空文库[mobi]/[米原万里] 嘘つきアーニャの真っ赤な真実.mobi",
+    "format": "mobi",
+    "bytes": 965443,
+    "sha256": "10f9d3847ed9440a16ce2f17b2afd18e68f3ada8006baab8d2e6b58ac9508be4",
+    "git_blob": "e238e20d4b97b9d0b2727891310cc9f5f93f5e79"
+  },
+  {
+    "path": "青空文库[mobi]/[米澤穂信] いまさら翼といわれても.mobi",
+    "format": "mobi",
+    "bytes": 1479118,
+    "sha256": "40bbd8211a2b2717791efff80869ae411f91bbce1b954893516fa2a59a12258c",
+    "git_blob": "df56d117254e19a74b8ce83e1da761e03b8ec89c"
+  },
+  {
+    "path": "青空文库[mobi]/[米澤穂信] さよなら妖精.mobi",
+    "format": "mobi",
+    "bytes": 1401005,
+    "sha256": "5970520ad9b4e87d33a6a31953c4b6d08e939f2ad5819305c963af3d5958c9cb",
+    "git_blob": "f46c04e03e18d042f533dcef6f529c8837ebcec4"
+  },
+  {
+    "path": "青空文库[mobi]/[米澤穂信] ふたりの距離の概算.mobi",
+    "format": "mobi",
+    "bytes": 851399,
+    "sha256": "7790b3a0e27945b2a9082aff7e3f7d1aa5245f0abe2e4917cff463da5924159b",
+    "git_blob": "66023d7794bbc4ed8a5b7fa831f6da8841a4d649"
+  },
+  {
+    "path": "青空文库[mobi]/[米澤穂信] インシテミル.mobi",
+    "format": "mobi",
+    "bytes": 3644800,
+    "sha256": "0bd460d8bbb2ce737508b194bf212d8b4955d90456b1993787054bbe156b15b2",
+    "git_blob": "e4067b62cb1afbca743053f30c1f6d075b359034"
+  },
+  {
+    "path": "青空文库[mobi]/[米澤穂信] クドリャフカの順番.mobi",
+    "format": "mobi",
+    "bytes": 2511658,
+    "sha256": "7f9021acdbf2986cc0bccb48908a02776f50ba18ad0bbd9eb586566f35280307",
+    "git_blob": "9d5162ae288fec44a8701fccdbc53e10349a26a5"
+  },
+  {
+    "path": "青空文库[mobi]/[米澤穂信] ボトルネック.mobi",
+    "format": "mobi",
+    "bytes": 1751490,
+    "sha256": "d94ac986b24f14decfb5461bcff77beb0924c3031e6656777849544ea330e84e",
+    "git_blob": "bf9775705710f9393e1bc20cbadbed7e107d9ce6"
+  },
+  {
+    "path": "青空文库[mobi]/[米澤穂信] 儚い羊たちの祝宴.mobi",
+    "format": "mobi",
+    "bytes": 1025726,
+    "sha256": "f8b1a4fd58ef0b0fd40709388eeabab24ce1e505272cc1bd296d34e05a3306ff",
+    "git_blob": "5f067f5e9c43bf06ece5bec4a6322c9438e75e4a"
+  },
+  {
+    "path": "青空文库[mobi]/[米澤穂信] 夏期限定トロピカルパフェ事件.mobi",
+    "format": "mobi",
+    "bytes": 1477369,
+    "sha256": "92a47bb9e2680f47487293c0b764d1330788d686fe8eeaf29e013efe0e83a1b0",
+    "git_blob": "ad7bf6865bbccec957b557284e25458c1af2c089"
+  },
+  {
+    "path": "青空文库[mobi]/[米澤穂信] 愚者のエンドロール.mobi",
+    "format": "mobi",
+    "bytes": 1294327,
+    "sha256": "865dbbe52ed0e755b2501e99086125bbdff6a8cdc485f10ea9510e7971e78252",
+    "git_blob": "eef0ba50dc3bbd58e808db8386f60e87e37e4b2c"
+  },
+  {
+    "path": "青空文库[mobi]/[米澤穂信] 折れた竜骨.mobi",
+    "format": "mobi",
+    "bytes": 1872136,
+    "sha256": "6ef766ca703bc5cd56719ece09130306425a2d1dc182460a4a2f9036388fd495",
+    "git_blob": "2fafcd6a5bae7cd60d091c09ffced7cba03aceb5"
+  },
+  {
+    "path": "青空文库[mobi]/[米澤穂信] 春期限定いちごタルト事件.mobi",
+    "format": "mobi",
+    "bytes": 1372225,
+    "sha256": "4a6df1a0cfb372cd9cbb4839bfc199e126d874ffa751e4cad29dc0a28574189b",
+    "git_blob": "672027f4a8e2b2e6db05a8c5bfa6d6042c94fd6f"
+  },
+  {
+    "path": "青空文库[mobi]/[米澤穂信] 氷菓.mobi",
+    "format": "mobi",
+    "bytes": 1156604,
+    "sha256": "f1ac5550ac27f8215c6c65c1c91e2183b428f03a611befb0547e87b92b22384a",
+    "git_blob": "551e12e1bd5bf5c5088d5fbfd28af5fe91d89004"
+  },
+  {
+    "path": "青空文库[mobi]/[米澤穂信] 満願.mobi",
+    "format": "mobi",
+    "bytes": 1542613,
+    "sha256": "85957a83549f66d9760cd6e2a54e393c0d2e28459357a3b6cc9e94f2b09cc961",
+    "git_blob": "6ac9a6a7a5468870a54821cf0e69ce71a2d17a73"
+  },
+  {
+    "path": "青空文库[mobi]/[米澤穂信] 犬はどこだ.mobi",
+    "format": "mobi",
+    "bytes": 1224009,
+    "sha256": "48f4ae546a0cf21fae5219fe3e9696016adcf4dd06ebd142b387643258952bc2",
+    "git_blob": "d7990ef252ffca00427df5564e51500479fc70f6"
+  },
+  {
+    "path": "青空文库[mobi]/[米澤穂信] 秋期限定栗きんとん事件　上.mobi",
+    "format": "mobi",
+    "bytes": 948613,
+    "sha256": "35fec35b1e6ac8475ad2b9e861a5530527d5a3dc978a3b225e4f1fb6fdce757d",
+    "git_blob": "a914f5174137737873fa2b802f519312e0dcba58"
+  },
+  {
+    "path": "青空文库[mobi]/[米澤穂信] 秋期限定栗きんとん事件　下.mobi",
+    "format": "mobi",
+    "bytes": 1455340,
+    "sha256": "ff430b7fd3fbbe374ded2e3f4a83f3a3d33bbe1eea53fca22ddd18ea9291f777",
+    "git_blob": "fbe06e63477aef248ae9233e9cd884c22aacc7f8"
+  },
+  {
+    "path": "青空文库[mobi]/[米澤穂信] 追想五断章.mobi",
+    "format": "mobi",
+    "bytes": 1033308,
+    "sha256": "c2235feb2a5b25d7752d0b4cd60dc8ca6c819931714d007117edfe0044ea0ae6",
+    "git_blob": "b5f758a7b30ee6a09a04243c484e93968af81365"
+  },
+  {
+    "path": "青空文库[mobi]/[米澤穂信] 遠まわりする雛.mobi",
+    "format": "mobi",
+    "bytes": 1234133,
+    "sha256": "58ca549c397bc810392c6521d111fafa351c2468b5c8097aa9561ddf8eb676a8",
+    "git_blob": "81944eb5743152e9134cb7844994d989cecd352c"
+  },
+  {
+    "path": "青空文库[mobi]/[米澤穗信] 王とサーカス.mobi",
+    "format": "mobi",
+    "bytes": 2125933,
+    "sha256": "29e6caa76ed862579cb82c756e10d997631c8730e10f8c6a11a9f9fd456d95e4",
+    "git_blob": "97ec2d03395d3084700d15e2529e4aef7ec9462d"
+  },
+  {
+    "path": "青空文库[mobi]/[米谷ふみ子] 過越しの祭.mobi",
+    "format": "mobi",
+    "bytes": 545701,
+    "sha256": "e6d04622feabec2c024dd3b4ec7fbba6ac32cc4be6cebb6ae0591cd5ef979c34",
+    "git_blob": "18b90cb93971888553cc4128da0a3da4920fe014"
+  },
+  {
+    "path": "青空文库[mobi]/[絲山秋子] 沖で待つ.mobi",
+    "format": "mobi",
+    "bytes": 754835,
+    "sha256": "41436f1bbf0698555614cf771280709710b6928480416adb6db8813d8b4334e3",
+    "git_blob": "cd36e8a0d9a8a6379e120dc158a983c8d41c6779"
+  },
+  {
+    "path": "青空文库[mobi]/[綱淵謙錠] 斬（ざん）.mobi",
+    "format": "mobi",
+    "bytes": 1602863,
+    "sha256": "fabac38c7ddfc208cab0da61ad74d42361dc099aeb9926b2a4fcef0bdb5c1d11",
+    "git_blob": "c2e25c474cb769cd08aaa78d7aa22ae389c53b2a"
+  },
+  {
+    "path": "青空文库[mobi]/[綿矢りさ] インストール.mobi",
+    "format": "mobi",
+    "bytes": 578512,
+    "sha256": "bc9a05a85580504a5ed71d1a8836e974af6fabb3b6e8453e49a323d79bd7b4ee",
+    "git_blob": "20210d86be98a93fe2b1e409f97a2d31bba7fb7a"
+  },
+  {
+    "path": "青空文库[mobi]/[綿矢りさ] 蹴りたい背中.mobi",
+    "format": "mobi",
+    "bytes": 564957,
+    "sha256": "238e34b47257e4505f5541cfd115ef7d18ac3912806f78b96e2a4f458be0129c",
+    "git_blob": "69ecb77ebd07cc9a4f0ba6098adbdb0534175594"
+  },
+  {
+    "path": "青空文库[mobi]/[色川武大] 離婚.mobi",
+    "format": "mobi",
+    "bytes": 909894,
+    "sha256": "fcbb7e8dff80385376728172900fbfd449d7805970134ce73edda7060b363358",
+    "git_blob": "1966b4cb2eb213fa8df0fba884850c36cbd1f55f"
+  },
+  {
+    "path": "青空文库[mobi]/[芦原すなお] 青春デンデケデケデケ.mobi",
+    "format": "mobi",
+    "bytes": 4480277,
+    "sha256": "1c122456639c8b43ef884991128673057cad5bc03cfbe3a33649b056be8dec0e",
+    "git_blob": "2cd650d124f0fea7deb63ac43e7002113a8a14df"
+  },
+  {
+    "path": "青空文库[mobi]/[花村萬月] ゲルマニウムの夜　王国記Ⅰ.mobi",
+    "format": "mobi",
+    "bytes": 1028181,
+    "sha256": "47b3f95b0439c576e2d1a3825ff884e54bdb07ddcc4ef7816e004526464fbfc3",
+    "git_blob": "2ae971c4463bc0e1c261b3eb945bfba015ab68bb"
+  },
+  {
+    "path": "青空文库[mobi]/[荻原浩] 海の見える理髪店.mobi",
+    "format": "mobi",
+    "bytes": 1628310,
+    "sha256": "b79a7ed64cf8b76dd8226ba695a9c21fa91ed707acfc8b3173a2a62bc1da764c",
+    "git_blob": "98f971d91f48a37b182668328e080fc6bbdde85a"
+  },
+  {
+    "path": "青空文库[mobi]/[葉室麟] 蜩ノ記.mobi",
+    "format": "mobi",
+    "bytes": 3986833,
+    "sha256": "b412248103c2e1841e4950cbc14f3a1eafaf8a29a3c45d9d8cb41049f2e9adbd",
+    "git_blob": "9ea235837e7f69012a29f17b75b4283da2fe7b0d"
+  },
+  {
+    "path": "青空文库[mobi]/[藤原伊織] テロリストのパラソル.mobi",
+    "format": "mobi",
+    "bytes": 1106468,
+    "sha256": "0a430e72f6f036bd943bb585da34017e4e609cfec5ec42eaf0f1949b8d361579",
+    "git_blob": "f7c97548a0ac6df1c6d10e07fe54053c30916cf7"
+  },
+  {
+    "path": "青空文库[mobi]/[藤堂志津子] 熟れてゆく夏.mobi",
+    "format": "mobi",
+    "bytes": 767523,
+    "sha256": "b72e050eaf09a9e57f0985f671b4426c158f9233102cd80f39285b00a0557817",
+    "git_blob": "c42b8bce3d7d21ef4d3f2dc1db80fc3b8849b30c"
+  },
+  {
+    "path": "青空文库[mobi]/[角田光代] 対岸の彼女.mobi",
+    "format": "mobi",
+    "bytes": 1091443,
+    "sha256": "035c6d76afa60c3a0219022f0d1a237198afbd64afa6e5045b6851ce29e5e9cf",
+    "git_blob": "8802aee90ad0fc6e0a6032c320cb2b806cd12b85"
+  },
+  {
+    "path": "青空文库[mobi]/[赤江瀑] 八雲が殺した.mobi",
+    "format": "mobi",
+    "bytes": 1482142,
+    "sha256": "a5c2ff58163739ae77874786e940e9c753db16ff23fc2b1f8291064f631b94a3",
+    "git_blob": "e685b7f2dd9ca6b7847c13643d648955ef483493"
+  },
+  {
+    "path": "青空文库[mobi]/[車谷長吉] 赤目四十八瀧心中未遂.mobi",
+    "format": "mobi",
+    "bytes": 910524,
+    "sha256": "0346b5594244e865b8c266499dc9719f42eba6df41ada18590214097d2b2f594",
+    "git_blob": "72734c1e4f6abcf701c22381c75f462a50e2caf4"
+  },
+  {
+    "path": "青空文库[mobi]/[郷　静子] れくいえむ.mobi",
+    "format": "mobi",
+    "bytes": 1078043,
+    "sha256": "d96ff44de0a28e39354efa9ee82b7b65e44f74d727c2d32d280c3354303c4bef",
+    "git_blob": "e85ce36cec930b9decec4c25354afe043e595b49"
+  },
+  {
+    "path": "青空文库[mobi]/[野坂昭如] アメリカひじき・火垂るの墓.mobi",
+    "format": "mobi",
+    "bytes": 1737551,
+    "sha256": "5376e36329a041bbcfe2a17a074a9600c4a6eb4d9492c3021b78577335813ed3",
+    "git_blob": "01a654f7ab036089cc94758aa5e9184b997aaa43"
+  },
+  {
+    "path": "青空文库[mobi]/[野尻抱介] ふわふわの泉.mobi",
+    "format": "mobi",
+    "bytes": 4267102,
+    "sha256": "628208d25b3d8596e82ea3f0cfdc20dee35ac45e2ff32ed6cc6e5bfcfaa3c22d",
+    "git_blob": "f5c4b0d6e0df75807c4c6bc7c59189067cd2f396"
+  },
+  {
+    "path": "青空文库[mobi]/[野尻抱介] 太陽の纂奪者.mobi",
+    "format": "mobi",
+    "bytes": 1311749,
+    "sha256": "7f88aab65f99d46dfb383d7e2f608127a9bbedacbfeee9afdc25ef09be588ee2",
+    "git_blob": "41e6ebc6e0699f1d5d2c7952e2051685e81d1bfd"
+  },
+  {
+    "path": "青空文库[mobi]/[長嶋　有] ぼくは落ち着きがない.mobi",
+    "format": "mobi",
+    "bytes": 1159551,
+    "sha256": "1a0c4b0e4a10a89cfd8fb519515bbbc45b12ce52ebf83e055ae42e0ad9f3b140",
+    "git_blob": "a17429341c351219063e49bcdd334b15616d8d4b"
+  },
+  {
+    "path": "青空文库[mobi]/[長嶋　有] 猛スピードで母は.mobi",
+    "format": "mobi",
+    "bytes": 558968,
+    "sha256": "793b49b571a90aecd0cfa5e7a7d1380dea5ff0a200aa3670ea55ae4e350672ac",
+    "git_blob": "cb192f806777e0627dd6d4262f3efaa9d36387ae"
+  },
+  {
+    "path": "青空文库[mobi]/[長野まゆみ] 少年アリス.mobi",
+    "format": "mobi",
+    "bytes": 3403118,
+    "sha256": "67ac2c48f7fa586ed5696367a5a4853ceb31919fb93105daf0aef9c3e7ba7562",
+    "git_blob": "a2500f256835999cb108ce5507bb588cf110a079"
+  },
+  {
+    "path": "青空文库[mobi]/[開高健] パニック・裸の王様.mobi",
+    "format": "mobi",
+    "bytes": 1916316,
+    "sha256": "5f21dbd5aba5b895bfd6d9a615060aa1a6c2c92814d9bd8b39e31a98107c67b2",
+    "git_blob": "d1c36bb700ed36ea1536bef8d3904c5e3972501d"
+  },
+  {
+    "path": "青空文库[mobi]/[阿刀田高] ナポレオン狂.mobi",
+    "format": "mobi",
+    "bytes": 1857872,
+    "sha256": "728cff4e6e03c1080b9a3e13716f8c7caf82781ad996782a2510fff3ed61461b",
+    "git_blob": "90f991d287a67a2bbb0d3b4017dc3ac9efa053d3"
+  },
+  {
+    "path": "青空文库[mobi]/[阿部和重] グランド・フィナーレ.mobi",
+    "format": "mobi",
+    "bytes": 1259452,
+    "sha256": "7bff92de59ab12d866e681eb4d49351e7ddd49c83b1e57b32daeb909e884c796",
+    "git_blob": "ccb5ccf2383bfca5306ae8bf8a1a7fda690c968c"
+  },
+  {
+    "path": "青空文库[mobi]/[隆慶一郎] 一夢庵風流記.mobi",
+    "format": "mobi",
+    "bytes": 2755205,
+    "sha256": "485b9710ac3ff9ff4771d3da4490912c130f33558bec59db901ca19ffefe173b",
+    "git_blob": "5230eb84f84c6fbdaf89e076d35bda91aa6efb87"
+  },
+  {
+    "path": "青空文库[mobi]/[青山文平] つまをめとらば.mobi",
+    "format": "mobi",
+    "bytes": 2093216,
+    "sha256": "834dd8013636451b06b53f07bba5d9611cf2852ad396ef020e4bf70b7c58a5a2",
+    "git_blob": "cf5046f7e9dffcfcac6eda18eafc149f5c02e952"
+  },
+  {
+    "path": "青空文库[mobi]/[青島幸男] 人間万事塞翁が丙午.mobi",
+    "format": "mobi",
+    "bytes": 1042176,
+    "sha256": "426f66ab03d3c73396e4bd045f0b81aeb1466a8000db52eb992e7f60a074d7cc",
+    "git_blob": "ca19b504c44db2cea1a885cf82a718065ab447ba"
+  },
+  {
+    "path": "青空文库[mobi]/[馳星周] 不夜城.mobi",
+    "format": "mobi",
+    "bytes": 1772860,
+    "sha256": "1e9d50a02a1ccd42f177667feb059714f069681f861e58588ed7ae1e7cfd38c3",
+    "git_blob": "86544422287785a575d83ff0e1f00351dc09b4c2"
+  },
+  {
+    "path": "青空文库[mobi]/[馳星周] 鎮魂歌 ―不夜城Ⅱ―.mobi",
+    "format": "mobi",
+    "bytes": 1831906,
+    "sha256": "8260233c6eb85520d1548e95c8988462780af47e8f5922a9215ea241cc866c35",
+    "git_blob": "0ca2970a9f7ad19f84cb6f43eb35fb77f21b1d59"
+  },
+  {
+    "path": "青空文库[mobi]/[馳星周] 長恨歌　不夜城完結編.mobi",
+    "format": "mobi",
+    "bytes": 2262293,
+    "sha256": "2a2a036d455a7944704deacf93dc1b453962bdc1486b0e220cc696e71d67e574",
+    "git_blob": "f4017acb2be45c1aed8789199687c8e700d0966c"
+  },
+  {
+    "path": "青空文库[mobi]/[高橋克彦] 緋い記憶.mobi",
+    "format": "mobi",
+    "bytes": 986419,
+    "sha256": "1f48bd9969ad2f48cf4e89f3ad4c7e5dfd8174cf879adf481f26eaf2ce7e67f2",
+    "git_blob": "aa189da5d1a8b1b8a9b2c685186f21cf05223d65"
+  },
+  {
+    "path": "青空文库[mobi]/[黒パン俘虜記] 胡桃沢耕史.mobi",
+    "format": "mobi",
+    "bytes": 1353545,
+    "sha256": "8cb83532db75553bea0fb843937b2437c24369a13078a970789e9d3164b5c002",
+    "git_blob": "897f928518dd584cc939d516bfdce86d680cef92"
+  },
+  {
+    "path": "青空文库[mobi]/[黒川博行] 破門.mobi",
+    "format": "mobi",
+    "bytes": 5776769,
+    "sha256": "e09eaaaa48a95f538a55ae50b2b04982e2d028875fc6fd1917c88a941bb0442c",
+    "git_blob": "2de6059818faf7ab843b99ec5ff13424e007a032"
+  },
+  {
+    "path": "鲁迅全集.mobi",
+    "format": "mobi",
+    "bytes": 60666329,
+    "sha256": "992a6c541dbfde5cfcd6862a523f12bfcc4e5b480a4df99b04a9e2f7badda04f",
+    "git_blob": "b1340fa4d618461e9422eeb44335395a957a3bfd"
+  }
+]
